@@ -1,0 +1,920 @@
+ 
+  ChemDraw08211807282D
+ 
+ 51 55  0  0  0  0  0  0  0  0999 V2000
+   -1.3338    0.7289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3338   -0.0961    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5492   -0.3510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0643    0.3164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5492    0.9838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0012   -0.5810    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2942   -1.1357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2942    1.7685    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8463   -1.7488    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5127   -1.3072    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7677   -2.0918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5746   -2.2633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0169   -2.3467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5961   -2.8988    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3915   -3.0818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2154   -3.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1267   -1.6502    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8296   -3.0480    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6366   -3.2195    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4616   -3.2195    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6366   -2.3945    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6366   -4.0445    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1760   -3.6320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1760   -2.8070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5027    1.9820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2171    1.5695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9316    1.9820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9316    2.8070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2171    3.2195    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5027    2.8070    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2171    0.7445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9316    0.3320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6461    0.7445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6461    1.5695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6461    3.2195    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6461    4.0445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9316   -0.4930    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7549   -0.2455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9150   -1.4015    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4224   -0.7304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8411    0.5750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1760   -0.3948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3361   -1.5509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0898   -1.2153    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4286    1.2895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6036    1.2895    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8411    2.0040    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4286    2.7184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6036    2.7184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8411    3.4329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0161    3.4329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  1  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  1  0  0  0
+  5  8  1  6  0  0  0
+  7  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+ 11 10  1  1  0  0  0
+ 11 12  1  6  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 11  1  0  0  0  0
+ 13 15  1  6  0  0  0
+ 15 16  2  0  0  0  0
+ 12 17  2  0  0  0  0
+ 12 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 19 22  2  0  0  0  0
+ 20 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 20  1  0  0  0  0
+  8 25  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 26 27  1  0  0  0  0
+ 27 28  2  0  0  0  0
+ 28 29  1  0  0  0  0
+ 29 30  2  0  0  0  0
+ 30 25  1  0  0  0  0
+ 26 31  1  0  0  0  0
+ 31 32  2  0  0  0  0
+ 32 33  1  0  0  0  0
+ 33 34  2  0  0  0  0
+ 34 27  1  0  0  0  0
+ 28 35  1  0  0  0  0
+ 35 36  1  0  0  0  0
+ 32 37  1  0  0  0  0
+  6 38  1  0  0  0  0
+  6 39  2  0  0  0  0
+ 38 41  1  0  0  0  0
+ 40 42  1  0  0  0  0
+ 40 43  1  0  0  0  0
+ 40 44  1  0  0  0  0
+ 41 45  1  0  0  0  0
+ 45 46  2  0  0  0  0
+ 45 47  1  0  0  0  0
+ 47 48  1  0  0  0  0
+ 48 49  1  0  0  0  0
+ 48 50  1  0  0  0  0
+ 48 51  1  0  0  0  0
+ 38 40  1  6  0  0  0
+M  END
+>  <NMREDATA_VERSION>
+1.1\
+
+>  <NMREDATA_SOLVENT>
+CDCl3\
+
+>  <NMREDATA_LEVEL>
+0\
+
+>  <NMREDATA_ASSIGNMENT>
+H1a, 4.3482, H1\
+1, 54.4571, 1\
+H1b, 4.0457, H1\
+H3, 4.5311, H3\
+3, 60.3263, 3\
+H4, 2.5351, H4\
+4, 34.5194, 4\
+H5, 5.7937, H5\
+5, 74.0734, 5\
+6, 172.7779, 6\
+7, 172.8585, 7\
+H10, 6.9379, H10\
+11, 41.9185, 11\
+12, 168.5669, 12\
+H13, 2.1113, H13\
+13, 35.7681, 13\
+H14a, 1.4919, H14\
+14, 22.7686, 14\
+H14b, 1.9829, H14\
+H15, 5.7688, H15\
+15, 132.7042, 15\
+H16a, 5.2655, H16\
+16, 118.7241, 16\
+H16b, 5.1512, H16\
+H20, 2.9125, H20\
+20, 31.4351, 20\
+H23a, 1.0431, H23\
+23, 6.3375, 23\
+H23b, 1.3663, H23\
+H24a, 1.0431, H24\
+24, 6.3375, 24\
+H24b, 1.3663, H24\
+25, 152.2644, 25\
+26, 120.6665, 26\
+27, 129.3973, 27\
+28, 146.8128, 28\
+H29, 7.4799, H29\
+29, 118.4816, 29\
+H31, 7.9989, H31\
+31, 122.8391, 31\
+32, 133.4325, 32\
+H33, 7.6045, H33\
+33, 131.0150, 33\
+H34, 8.0502, H34\
+34, 123.4148, 34\
+H36, 3.9891, H36\
+36, 56.2727, 36\
+H38, 4.2422, H38\
+38, 58.8804, 38\
+40, 35.8000, 40\
+H41, 5.1967, H41\
+H42, 1.0277, H42\
+42, 26.6457, 42\
+H43, 1.0277, H43\
+43, 26.6457, 43\
+H44, 1.0277, H44\
+44, 26.6457, 44\
+45, 155.7793, 45\
+48, 79.8965, 48\
+H49, 1.2548, H49\
+49, 28.2709, 49\
+H50, 1.2548, H50\
+50, 28.2709, 50\
+H51, 1.2548, H51\
+51, 28.2709, 51\
+
+>  <NMREDATA_J>
+H1', H1'', 11.8\
+H14', H14'', 5.8\
+H16', H16'', 1.4\
+H31, H33, 2.1\
+H33, H34, 8.8\
+H38, H41, 9.6\
+
+>  <NMREDATA_1D_1H>
+Larmor=899.894229483\
+Pulseprogram=zg ;optional in V1\
+Spectrum_Location=file:Asumepr_CDCl3/1/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE echo ";Copy spectra for compound1"
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3"
+;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/1/fid" ) then 
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/1" "CSH_NAME_CSH/Asumepr_CDCl3"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/Asumepr_CDCl3/1/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3/1/pdata"
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/1/pdata/1" "CSH_NAME_CSH/Asumepr_CDCl3/1/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/1/fid in C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of Asumepr_CDCl3"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/1"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/1"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+;4.3482, L=H1a;found no H multiplet for this H\
+;4.0457, L=H1b;found no H multiplet for this H\
+4.5311, S=m, L=H3, E=15.9601; found H multiplet by label chem shifts differ by 0.000000 ppm\
+2.5309, S=m, L=H4, E=37.2834; found H multiplet by label chem shifts differ by 0.004174 ppm\
+5.7781, S=m, L=H5, E=4.3942; found H multiplet by label chem shifts differ by 0.015638 ppm\
+6.9408, S=s, L=H10, E=14.7633; found H multiplet by label chem shifts differ by -0.002907 ppm\
+2.1135, S=q, L=H13, E=14.6001, J=8.71; found H multiplet by label chem shifts differ by -0.002205 ppm\
+;1.4919, L=H14a;found no H multiplet for this H\
+;1.9829, L=H14b;found no H multiplet for this H\
+;5.7688, L=H15;found no H multiplet for this H\
+;5.2655, L=H16a;found no H multiplet for this H\
+;5.1512, L=H16b;found no H multiplet for this H\
+2.9176, S=tt, L=H20, E=11.9681, J=4.74,8.08; found H multiplet by label chem shifts differ by -0.005057 ppm\
+;1.0431, L=H23a;found no H multiplet for this H\
+;1.3663, L=H23b;found no H multiplet for this H\
+;1.0431, L=H24a;found no H multiplet for this H\
+;1.3663, L=H24b;found no H multiplet for this H\
+7.4799, S=s, L=H29, E=10.7086; found H multiplet by label chem shifts differ by 0.000000 ppm\
+7.9989, S=d, L=H31, E=7.1323, J=2.08; found H multiplet by label chem shifts differ by 0.000000 ppm\
+7.6092, S=dd, L=H33, E=8.7564, J=2.16,8.87; found H multiplet by label chem shifts differ by -0.004717 ppm\
+8.0502, S=d, L=H34, E=8.2310, J=8.84; found H multiplet by label chem shifts differ by 0.000000 ppm\
+3.9891, S=s, L=H36, E=45.8543; found H multiplet by label chem shifts differ by 0.000000 ppm\
+4.2422, S=d, L=H38, E=15.8661, J=9.65; found H multiplet by label chem shifts differ by 0.000000 ppm\
+5.1967, S=d, L=H41, E=13.6105, J=9.63; found H multiplet by label chem shifts differ by 0.000000 ppm\
+1.0277, S=s, L=H42, E=157.6301; found H multiplet by label chem shifts differ by 0.000006 ppm\
+;1.0277, L=H43;found no H multiplet for this H\
+;1.0277, L=H44;found no H multiplet for this H\
+1.2548, S=s, L=H49, E=143.8731; found H multiplet by label chem shifts differ by 0.000000 ppm\
+;1.2548, L=H50;found no H multiplet for this H\
+;1.2548, L=H51;found no H multiplet for this H\
+
+>  <NMREDATA_1D_13C>
+Larmor=226.302411006\
+Pulseprogram=zgzrse ;optional in V1\
+Spectrum_Location=file:Asumepr_CDCl3/14/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3"
+;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/14/fid" ) then 
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/14" "CSH_NAME_CSH/Asumepr_CDCl3"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/Asumepr_CDCl3/14/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3/14/pdata"
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/14/pdata/1" "CSH_NAME_CSH/Asumepr_CDCl3/14/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/14/fid in C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of Asumepr_CDCl3"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/14"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/14"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+54.4571, L=1, I=60.9737, E=3.1624;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+60.3263, L=3, I=43.7081, E=27.8209;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+34.5194, L=4, I=46.0060, E=37.1401;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+74.0734, L=5, I=52.4857, E=3.2834;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+172.7779, L=6, I=27.9371, E=1.6039;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+172.8585, L=7, I=23.0186, E=1.9219;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+41.9185, L=11, I=23.6407, E=10.8537;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+168.5669, L=12, I=23.9627, E=1.5845;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+35.7681, L=13, I=54.4711, E=5.8448;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+22.7686, L=14, I=26.2133, E=2.6986;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+132.7042, L=15, I=48.1492, E=2.4421;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+118.7241, L=16, I=49.0596, E=2.8280;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+31.4351, L=20, I=57.0870, E=23.0696;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+6.3375, L=23, I=65.4483, E=3.8513;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+6.3375, L=24, I=65.4483, E=3.8513;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+152.2644, L=25, I=30.2627, E=1.6949;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+120.6665, L=26, I=32.3475, E=1.7025;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+129.3973, L=27, I=39.4648, E=7.1891;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+146.8128, L=28, I=27.0093, E=5.8437;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+118.4816, L=29, I=52.8790, E=3.0270;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+122.8391, L=31, I=63.6973, E=2.7628;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+133.4325, L=32, I=26.8547, E=54.7415;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+131.0150, L=33, I=41.2189, E=2.4384;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+123.4148, L=34, I=66.7700, E=2.9520;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+56.2727, L=36, I=83.0437, E=14.8180;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+58.8804, L=38, I=41.8568, E=2.9361;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+35.7681, L=40, I=54.4711, E=5.8448;errcs=-0.031910 ppm (This is how far this peak is from the assigned resonance)\
+26.6457, L=42, I=181.4738, E=10.9076;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+26.6457, L=43, I=181.4738, E=10.9076;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+26.6457, L=44, I=181.4738, E=10.9076;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+155.7793, L=45, I=24.6384, E=20.0952;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+79.8965, L=48, I=27.6716, E=1.5994;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+28.2709, L=49, I=209.4638, E=52.0530;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+28.2709, L=50, I=209.4638, E=52.0530;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+28.2709, L=51, I=209.4638, E=52.0530;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+
+>  <NMREDATA_2D_1H_NJ_1H>
+Larmor=899.89449945\
+CorrType=COSY\
+Pulseprogram=cosygpqf ;optional in V1\
+Spectrum_Location=file:Asumepr_CDCl3/12/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3"
+;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/12/ser" ) then 
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/12" "CSH_NAME_CSH/Asumepr_CDCl3"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/Asumepr_CDCl3/12/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3/12/pdata"
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/12/pdata/1" "CSH_NAME_CSH/Asumepr_CDCl3/12/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/12/ser in C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of Asumepr_CDCl3"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/12"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/12"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+H1b/H1a\
+H4/H1a\
+H5/H1a\
+H1a/H1b\
+H4/H1b\
+H5/H1b\
+H41/H1b\
+H4/H3\
+H1b/H4\
+H1a/H4\
+H3/H4\
+H5/H4\
+H1b/H5\
+H1a/H5\
+H4/H5\
+H14b/H10\
+H14b/H13\
+H14a/H13\
+H15/H13\
+H16b/H13\
+H16a/H13\
+H13/H14a\
+H14b/H14a\
+H10/H14b\
+H13/H14b\
+H14a/H14b\
+H13/H15\
+H16b/H15\
+H16a/H15\
+H13/H16a\
+H15/H16a\
+H16b/H16a\
+H13/H16b\
+H15/H16b\
+H16a/H16b\
+H23b/H20\
+H23a/H20\
+H24b/H20\
+H24a/H20\
+H20/H23a\
+H23b/H23a\
+H24b/H23a\
+H24a/H23a\
+H20/H23b\
+H23a/H23b\
+H24b/H23b\
+H24a/H23b\
+H20/H24a\
+H23b/H24a\
+H23a/H24a\
+H20/H24b\
+H23b/H24b\
+H23a/H24b\
+H36/H29\
+H33/H31\
+H31/H33\
+H34/H33\
+H33/H34\
+H29/H36\
+H41/H38\
+H1b/H41\
+H38/H41\
+
+>  <NMREDATA_2D_1H_TJ_1H>
+Larmor=899.894229483\
+CorrType=TOCSY\
+Pulseprogram=dipsi2gpph19 ;optional in V1\
+Spectrum_Location=file:Asumepr_CDCl3/2/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3"
+;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/2/ser" ) then 
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/2" "CSH_NAME_CSH/Asumepr_CDCl3"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/Asumepr_CDCl3/2/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3/2/pdata"
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/2/pdata/1" "CSH_NAME_CSH/Asumepr_CDCl3/2/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/2/ser in C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of Asumepr_CDCl3"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/2"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/2"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+H1b/H1a\
+H4/H1a\
+H5/H1a\
+H1a/H1b\
+H4/H1b\
+H5/H1b\
+H41/H1b\
+H4/H3\
+H5/H3\
+H1b/H4\
+H1a/H4\
+H3/H4\
+H5/H4\
+H1b/H5\
+H1a/H5\
+H3/H5\
+H4/H5\
+H14b/H13\
+H14a/H13\
+H15/H13\
+H16b/H13\
+H16a/H13\
+H13/H14a\
+H14b/H14a\
+H15/H14a\
+H16b/H14a\
+H16a/H14a\
+H13/H14b\
+H14a/H14b\
+H15/H14b\
+H16b/H14b\
+H16a/H14b\
+H13/H15\
+H14b/H15\
+H14a/H15\
+H16b/H15\
+H16a/H15\
+H13/H16a\
+H14b/H16a\
+H14a/H16a\
+H15/H16a\
+H16b/H16a\
+H13/H16b\
+H14b/H16b\
+H14a/H16b\
+H15/H16b\
+H16a/H16b\
+H23b/H20\
+H23a/H20\
+H24b/H20\
+H24a/H20\
+H20/H23a\
+H24b/H23a\
+H24a/H23a\
+H20/H23b\
+H24b/H23b\
+H24a/H23b\
+H20/H24a\
+H23b/H24a\
+H23a/H24a\
+H20/H24b\
+H23b/H24b\
+H23a/H24b\
+H36/H29\
+H33/H31\
+H31/H33\
+H34/H33\
+H33/H34\
+H29/H36\
+H41/H38\
+H42/H38\
+H43/H38\
+H44/H38\
+H1b/H41\
+H38/H41\
+H42/H41\
+H43/H41\
+H44/H41\
+H38/H42\
+H41/H42\
+H38/H43\
+H41/H43\
+H38/H44\
+H41/H44\
+
+>  <NMREDATA_2D_13C_unidentified_heteronuclear_2d_spectrum_1H>
+Larmor=899.894229696\
+CorrType=HSQC-EDITED\
+Pulseprogram=hsqcedetgpsisp2.4 ;optional in V1\
+Spectrum_Location=file:Asumepr_CDCl3/10/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3"
+;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/10/ser" ) then 
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/10" "CSH_NAME_CSH/Asumepr_CDCl3"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/Asumepr_CDCl3/10/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3/10/pdata"
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/10/pdata/1" "CSH_NAME_CSH/Asumepr_CDCl3/10/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/10/ser in C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of Asumepr_CDCl3"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/10"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/10"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+1/H1a\
+1/H1b\
+3/H3\
+4/H4\
+5/H5\
+13/H13\
+14/H14a\
+14/H14b\
+15/H15\
+16/H16a\
+16/H16b\
+20/H20\
+23/H23a\
+23/H23b\
+24/H24a\
+24/H24b\
+29/H29\
+31/H31\
+33/H33\
+34/H34\
+36/H36\
+38/H38\
+42/H42\
+43/H43\
+44/H44\
+49/H49\
+50/H50\
+51/H51\
+
+>  <NMREDATA_2D_13C_NJ_1H>
+Larmor=899.894228448\
+CorrType=HMBC\
+Pulseprogram=hmbcetgpl3nd ;optional in V1\
+Spectrum_Location=file:Asumepr_CDCl3/11/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3"
+;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/11/ser" ) then 
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/11" "CSH_NAME_CSH/Asumepr_CDCl3"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/Asumepr_CDCl3/11/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3/11/pdata"
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/11/pdata/1" "CSH_NAME_CSH/Asumepr_CDCl3/11/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/11/ser in C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of Asumepr_CDCl3"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/11"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/11"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+3/H1a\
+4/H1a\
+5/H1a\
+1/H4\
+5/H4\
+3/H5\
+11/H13\
+16/H13\
+11/H14a\
+12/H14a\
+13/H14a\
+15/H14a\
+11/H14b\
+12/H14b\
+13/H14b\
+15/H14b\
+11/H16a\
+13/H16a\
+15/H16a\
+13/H16b\
+23/H20\
+24/H20\
+20/H23a\
+23/H23a\
+24/H23a\
+20/H23b\
+23/H23b\
+24/H23b\
+20/H24a\
+23/H24a\
+24/H24a\
+20/H24b\
+23/H24b\
+24/H24b\
+25/H29\
+26/H29\
+27/H29\
+28/H29\
+34/H29\
+25/H31\
+27/H31\
+32/H31\
+33/H31\
+26/H33\
+27/H33\
+32/H33\
+25/H34\
+26/H34\
+28/H34\
+31/H34\
+32/H34\
+33/H34\
+28/H36\
+29/H36\
+6/H38\
+40/H38\
+42/H38\
+43/H38\
+44/H38\
+45/H38\
+38/H42\
+40/H42\
+43/H42\
+44/H42\
+38/H43\
+40/H43\
+42/H43\
+44/H43\
+38/H44\
+40/H44\
+42/H44\
+43/H44\
+48/H49\
+50/H49\
+51/H49\
+48/H50\
+49/H50\
+51/H50\
+48/H51\
+49/H51\
+50/H51\
+
+>  <NMREDATA_2D_1H_D_1H>
+Larmor=899.894142328783\
+CorrType=NOESY\
+Pulseprogram=noesygpphpp ;optional in V1\
+Spectrum_Location=file:Asumepr_CDCl3/7/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3"
+;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/7/ser" ) then 
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/7" "CSH_NAME_CSH/Asumepr_CDCl3"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/Asumepr_CDCl3/7/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3/7/pdata"
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/7/pdata/1" "CSH_NAME_CSH/Asumepr_CDCl3/7/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/7/ser in C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of Asumepr_CDCl3"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/7"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/7"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+H1b/H1a\
+H4/H1a\
+H5/H1a\
+H31/H1a\
+H38/H1a\
+H42/H1a\
+H43/H1a\
+H44/H1a\
+H1a/H1b\
+H4/H1b\
+H5/H1b\
+H38/H1b\
+H42/H1b\
+H43/H1b\
+H44/H1b\
+H4/H3\
+H5/H3\
+H10/H3\
+H31/H3\
+H1b/H4\
+H1a/H4\
+H3/H4\
+H5/H4\
+H10/H4\
+H31/H4\
+H1b/H5\
+H1a/H5\
+H3/H5\
+H4/H5\
+H13/H5\
+H16b/H5\
+H16a/H5\
+H29/H5\
+H31/H5\
+H42/H5\
+H43/H5\
+H44/H5\
+H3/H10\
+H4/H10\
+H13/H10\
+H14a/H10\
+H42/H10\
+H43/H10\
+H44/H10\
+H5/H13\
+H10/H13\
+H14b/H13\
+H14a/H13\
+H16b/H13\
+H16a/H13\
+H42/H13\
+H43/H13\
+H44/H13\
+H10/H14a\
+H13/H14a\
+H14b/H14a\
+H42/H14a\
+H43/H14a\
+H44/H14a\
+H13/H14b\
+H14a/H14b\
+H15/H14b\
+H16a/H14b\
+H14b/H15\
+H5/H16a\
+H13/H16a\
+H14b/H16a\
+H16b/H16a\
+H42/H16a\
+H43/H16a\
+H44/H16a\
+H5/H16b\
+H13/H16b\
+H16a/H16b\
+H42/H16b\
+H43/H16b\
+H44/H16b\
+H23b/H20\
+H23a/H20\
+H24b/H20\
+H24a/H20\
+H20/H23a\
+H23b/H23a\
+H24b/H23a\
+H20/H23b\
+H23a/H23b\
+H20/H24a\
+H20/H24b\
+H23a/H24b\
+H5/H29\
+H36/H29\
+H1a/H31\
+H3/H31\
+H4/H31\
+H5/H31\
+H33/H31\
+H49/H31\
+H50/H31\
+H51/H31\
+H31/H33\
+H34/H33\
+H49/H33\
+H50/H33\
+H51/H33\
+H33/H34\
+H36/H34\
+H29/H36\
+H34/H36\
+H1b/H38\
+H1a/H38\
+H41/H38\
+H42/H38\
+H43/H38\
+H44/H38\
+H49/H38\
+H50/H38\
+H51/H38\
+H38/H41\
+H42/H41\
+H43/H41\
+H44/H41\
+H49/H41\
+H50/H41\
+H51/H41\
+H1b/H42\
+H1a/H42\
+H5/H42\
+H10/H42\
+H13/H42\
+H14a/H42\
+H16b/H42\
+H16a/H42\
+H38/H42\
+H41/H42\
+H1b/H43\
+H1a/H43\
+H5/H43\
+H10/H43\
+H13/H43\
+H14a/H43\
+H16b/H43\
+H16a/H43\
+H38/H43\
+H41/H43\
+H1b/H44\
+H1a/H44\
+H5/H44\
+H10/H44\
+H13/H44\
+H14a/H44\
+H16b/H44\
+H16a/H44\
+H38/H44\
+H41/H44\
+H31/H49\
+H33/H49\
+H38/H49\
+H41/H49\
+H31/H50\
+H33/H50\
+H38/H50\
+H41/H50\
+H31/H51\
+H33/H51\
+H38/H51\
+H41/H51\
+
+>  <NMREDATA_1D_1H#2>
+Larmor=900.13\
+Pulseprogram= ;optional in V1\
+Spectrum_Location=file:undefined\undefined\undefined\undefined\\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH\undefined"
+;UNIX_CREATE if ( -f "" ) then 
+;UNIX_CREATE   cp -rp  "undefined\undefined" "CSH_NAME_CSH\undefined"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH\undefined\undefined\pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH\undefined\undefined\pdata"
+;UNIX_CREATE   cp -rp  "undefined\undefined\undefined\undefined" "CSH_NAME_CSH\undefined\undefined\undefined"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file : in "
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of undefined"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""undefined\undefined"\" \""UNIX_WO_PATH\CSH_NAME_CSH\undefined"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""undefined\undefined"\" \""UNIX_WO_PATH\CSH_NAME_CSH\undefined"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+;UNIX_CREATE cat  "compound1.nmredata.sdf"| grep -v  UNIX_CREATE> "CSH_NAME_CSH/compound1.nmredata.sdf"
+;UNIX_CREATE if (! $?notok) then
+;UNIX_CREATE echo "Zipping folder CSH_NAME_CSH" 
+;UNIX_CREATE rm "CSH_NAME_CSH.zip" 
+;UNIX_CREATE zip -q -r "CSH_NAME_CSH.zip" "CSH_NAME_CSH" -x "*.DS_Store" -x ".*" -x "_*"
+;UNIX_CREATE else
+;UNIX_CREATE echo "cd "\""UNIX_WO_PATH"\"
+;UNIX_CREATE echo 'rm  "CSH_NAME_CSH.zip" '
+;UNIX_CREATE echo 'zip -q -r "CSH_NAME_CSH.zip" "CSH_NAME_CSH" -x "*.DS_Store" -x ".*" -x "_*"'
+;UNIX_CREATE endif
+;4.3482, L=H1a;found no H multiplet for this H\
+;4.0457, L=H1b;found no H multiplet for this H\
+;4.5311, L=H3;found no H multiplet for this H\
+;2.5351, L=H4;found no H multiplet for this H\
+;5.7937, L=H5;found no H multiplet for this H\
+;6.9379, L=H10;found no H multiplet for this H\
+;2.1113, L=H13;found no H multiplet for this H\
+;1.4919, L=H14a;found no H multiplet for this H\
+;1.9829, L=H14b;found no H multiplet for this H\
+;5.7688, L=H15;found no H multiplet for this H\
+;5.2655, L=H16a;found no H multiplet for this H\
+;5.1512, L=H16b;found no H multiplet for this H\
+;2.9125, L=H20;found no H multiplet for this H\
+;1.0431, L=H23a;found no H multiplet for this H\
+;1.3663, L=H23b;found no H multiplet for this H\
+;1.0431, L=H24a;found no H multiplet for this H\
+;1.3663, L=H24b;found no H multiplet for this H\
+;7.4799, L=H29;found no H multiplet for this H\
+;7.9989, L=H31;found no H multiplet for this H\
+;7.6045, L=H33;found no H multiplet for this H\
+;8.0502, L=H34;found no H multiplet for this H\
+;3.9891, L=H36;found no H multiplet for this H\
+;4.2422, L=H38;found no H multiplet for this H\
+;5.1967, L=H41;found no H multiplet for this H\
+;1.0277, L=H42;found no H multiplet for this H\
+;1.0277, L=H43;found no H multiplet for this H\
+;1.0277, L=H44;found no H multiplet for this H\
+;1.2548, L=H49;found no H multiplet for this H\
+;1.2548, L=H50;found no H multiplet for this H\
+;1.2548, L=H51;found no H multiplet for this H\
+
+$$$$

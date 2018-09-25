@@ -1,0 +1,1 @@
+This repository contains examples of NMReDATA files and NMR records. Each has its own folder. The folder should contain a readme.md file, explaining what is special, significant, unusual about the example. The comments are important.
