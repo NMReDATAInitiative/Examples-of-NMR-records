@@ -1,0 +1,15 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 7
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= pupier
+$$ /Volumes/data/nmr/nmrdata/nmrge500_3/data/lacour/nmr/AN-menthol/18/pdata/100/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2017-10-23 11:45:47.840 +0200>,<pupier>,<djmini-dec2011.local>,<mvrow>,<TopSpin 3.5.7>,
+      <rsr 621 from
+       1 18 "AN-menthol" "/Volumes/data/nmr/nmrdata/nmrge500_3/data/lacour/nmr"
+       data hash MD5: 16K
+       E5 CD 04 0B E7 BF 3D 98 EE 69 85 06 A1 09 4C 10>)
+##END=
+
+$$ hash MD5
+$$ 1B 74 8D 7F 28 09 69 75 9F D2 23 1B 5B 3E 8A B2

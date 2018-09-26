@@ -1,0 +1,23 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 7
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ /opt/topspin3.5pl5/data/jeannerat/data/nmr/nmr/dj_menthol/21/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2017-12-19 03:57:53.283 +0100>,<nmr>,<CZC60678L0>,<go4>,<TopSpin 3.5.7>,
+      <created by zg
+	started at 2017-12-18 17:23:07.271 +0100,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       16 24 81 54 1A C4 54 87 FE 19 5E C7 D7 52 3B 2B
+       data hash MD5: 8K * 2K
+       A4 C3 B7 EE 22 D6 28 4B E0 4F 9F 6A 79 1B E4 7F>)
+(   2,<2017-12-19 09:03:18.130 +0100>,<nmr>,<CZC60678L0>,<proc2d>,<TopSpin 3.5.7>,
+      <Start of raw data processing
+       xfb F2: SI = 8K FT_mod = 6 PKNL = 1 PHC0 = -11.49131 PHC1 = 43.48023 F1: SI = 1K WDW = 4 SSB = 2 FT_mod = 5 FCOR = 1 PHC0 = 90 PHC1 = 0
+       data hash MD5: 8K * 1K
+       56 21 85 D8 6D 18 18 2D A7 F1 0F 35 25 FD F8 CE>)
+##END=
+
+$$ hash MD5
+$$ A8 13 48 32 26 E3 A8 3A E6 F7 19 0C 09 0E A9 F2

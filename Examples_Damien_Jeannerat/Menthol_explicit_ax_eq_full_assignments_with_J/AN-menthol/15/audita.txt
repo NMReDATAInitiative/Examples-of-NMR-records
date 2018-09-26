@@ -1,0 +1,23 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 7
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ /opt/topspin3.5pl5/data/lacour/data/nmr/nmr/AN-menthol/15/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2017-10-19 12:29:31.427 +0200>,<nmr>,<CZC60678L0>,<go4>,<TopSpin 3.5.7>,
+      <created by zg
+	started at 2017-10-19 12:17:28.648 +0200,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       16 24 81 54 1A C4 54 87 FE 19 5E C7 D7 52 3B 2B
+       data hash MD5: 4K * 256
+       29 A8 88 CA BB 86 2A 98 E0 80 25 54 45 EA 7C 3D>)
+(   2,<2017-10-19 12:29:31.476 +0200>,<nmr>,<CZC60678L0>,<audit>,<TopSpin 3.5.7>,
+      <user comment:
+       ICON-NMR User ID: nmr
+       data hash MD5: 4K * 256
+       29 A8 88 CA BB 86 2A 98 E0 80 25 54 45 EA 7C 3D>)
+##END=
+
+$$ hash MD5
+$$ 3B 63 C9 39 D3 3D 74 66 B3 1F 46 E5 1A F1 48 66

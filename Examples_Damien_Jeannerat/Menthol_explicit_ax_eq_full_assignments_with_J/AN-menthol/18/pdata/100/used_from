@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 7
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= pupier
+$$ 2017-10-23 11:45:47.840 +0200  pupier@djmini-dec2011.local
+$$ /Volumes/data/nmr/nmrdata/nmrge500_3/data/lacour/nmr/AN-menthol/18/pdata/100/used_from
+$$ process /opt/topspin3.5pl7/prog/mod/mvrow
+##$CUREXP= <row>
+##$DATPATH= </Volumes/data/nmr/nmrdata/nmrge500_3/data/lacour/nmr>
+##$EXPNO= 18
+##$NAME= <AN-menthol>
+##$PROCNO= 1
+##$PROCNO2= 621
+##END=

@@ -1,0 +1,40 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 7
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ /opt/topspin3.5pl5/data/lacour/data/nmr/nmr/AN-menthol/13/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2017-10-19 12:09:50.693 +0200>,<nmr>,<CZC60678L0>,<go4>,<TopSpin 3.5.7>,
+      <created by zg
+	started at 2017-10-19 11:56:39.560 +0200,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       16 24 81 54 1A C4 54 87 FE 19 5E C7 D7 52 3B 2B
+       data hash MD5: 8K * 256
+       1D EC 29 54 AE 00 B7 7C A3 38 37 AB 82 AE CA 04>)
+(   2,<2017-10-19 12:09:50.738 +0200>,<nmr>,<CZC60678L0>,<audit>,<TopSpin 3.5.7>,
+      <user comment:
+       ICON-NMR User ID: nmr
+       data hash MD5: 8K * 256
+       1D EC 29 54 AE 00 B7 7C A3 38 37 AB 82 AE CA 04>)
+(   3,<2017-10-19 12:09:51.125 +0200>,<nmr>,<CZC60678L0>,<proc2d>,<TopSpin 3.5.7>,
+      <Start of raw data processing
+       xfb same F2: SI = 1K WDW = 4 SSB = 0 FT_mod = 6 PKNL = 1 F1: SI = 1K ME_mod = 2 NCOEF = 32 WDW = 4 SSB = 0 FT_mod = 6 FCOR = 0.5 PH_mod = 2
+       data hash MD5: 1K * 1K
+       BF BB B4 A5 BA 2A AD 27 88 38 9A E7 AF AF EE 4F>)
+(   4,<2017-10-19 12:09:51.208 +0200>,<nmr>,<CZC60678L0>,<proc2d>,<TopSpin 3.5.7>,
+      <abs2 F2: ABSG = 5 ABSF1 = 8.243257 ABSF2 = -0.682994
+       data hash MD5: 1K * 1K
+       B1 A8 00 AC AB DD 71 F6 28 C0 52 EF E4 57 A7 2A>)
+(   5,<2017-10-19 12:09:51.249 +0200>,<nmr>,<CZC60678L0>,<proc2d>,<TopSpin 3.5.7>,
+      <abs1 F1: ABSG = 5 ABSF1 = 8.243257 ABSF2 = -0.682994
+       data hash MD5: 1K * 1K
+       F1 24 64 2C 8A 1C AA 93 39 7B 30 20 26 13 32 E7>)
+(   6,<2017-10-19 12:09:51.269 +0200>,<nmr>,<CZC60678L0>,<proc2d>,<TopSpin 3.5.7>,
+      <sym
+       data hash MD5: 1K * 1K
+       00 E9 3A 71 45 F1 64 26 B3 07 D7 64 9A DC 4E FA>)
+##END=
+
+$$ hash MD5
+$$ B9 BA EC DB 1E EC 6F A1 FE D8 DB D8 59 78 5D 82
