@@ -197,26 +197,6 @@ H38, H41, 9.6\
 Larmor=899.894229483\
 Pulseprogram=zg ;optional in V1\
 Spectrum_Location=file:Asumepr_CDCl3/1/pdata/1/\
-zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
-;UNIX_CREATE echo ";Copy spectra for compound1"
-;UNIX_CREATE mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3"
-;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/1/fid" ) then 
-;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/1" "CSH_NAME_CSH/Asumepr_CDCl3"
-;UNIX_CREATE   rm -r "CSH_NAME_CSH/Asumepr_CDCl3/1/pdata"
-;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3/1/pdata"
-;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/1/pdata/1" "CSH_NAME_CSH/Asumepr_CDCl3/1/pdata"
-;UNIX_CREATE else 
-;UNIX_CREATE   if (! $?notok) then
-;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/1/fid in C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/"
-;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of Asumepr_CDCl3"
-;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/1"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
-;UNIX_CREATE     set notok="1" 
-;UNIX_CREATE   else
-;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/1"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
-;UNIX_CREATE   endif 
-;UNIX_CREATE endif 
-;UNIX_CREATE 
 ;4.3482, L=H1a;found no H multiplet for this H\
 ;4.0457, L=H1b;found no H multiplet for this H\
 4.5311, S=m, L=H3, E=15.9601; found H multiplet by label chem shifts differ by 0.000000 ppm\
@@ -252,25 +232,6 @@ zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6
 Larmor=226.302411006\
 Pulseprogram=zgzrse ;optional in V1\
 Spectrum_Location=file:Asumepr_CDCl3/14/pdata/1/\
-zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
-;UNIX_CREATE mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3"
-;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/14/fid" ) then 
-;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/14" "CSH_NAME_CSH/Asumepr_CDCl3"
-;UNIX_CREATE   rm -r "CSH_NAME_CSH/Asumepr_CDCl3/14/pdata"
-;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3/14/pdata"
-;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/14/pdata/1" "CSH_NAME_CSH/Asumepr_CDCl3/14/pdata"
-;UNIX_CREATE else 
-;UNIX_CREATE   if (! $?notok) then
-;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/14/fid in C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/"
-;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of Asumepr_CDCl3"
-;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/14"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
-;UNIX_CREATE     set notok="1" 
-;UNIX_CREATE   else
-;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/14"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
-;UNIX_CREATE   endif 
-;UNIX_CREATE endif 
-;UNIX_CREATE 
 54.4571, L=1, I=60.9737, E=3.1624;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
 60.3263, L=3, I=43.7081, E=27.8209;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
 34.5194, L=4, I=46.0060, E=37.1401;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
@@ -312,25 +273,6 @@ Larmor=899.89449945\
 CorrType=COSY\
 Pulseprogram=cosygpqf ;optional in V1\
 Spectrum_Location=file:Asumepr_CDCl3/12/pdata/1/\
-zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
-;UNIX_CREATE mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3"
-;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/12/ser" ) then 
-;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/12" "CSH_NAME_CSH/Asumepr_CDCl3"
-;UNIX_CREATE   rm -r "CSH_NAME_CSH/Asumepr_CDCl3/12/pdata"
-;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3/12/pdata"
-;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/12/pdata/1" "CSH_NAME_CSH/Asumepr_CDCl3/12/pdata"
-;UNIX_CREATE else 
-;UNIX_CREATE   if (! $?notok) then
-;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/12/ser in C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/"
-;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of Asumepr_CDCl3"
-;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/12"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
-;UNIX_CREATE     set notok="1" 
-;UNIX_CREATE   else
-;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/12"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
-;UNIX_CREATE   endif 
-;UNIX_CREATE endif 
-;UNIX_CREATE 
 H1b/H1a\
 H4/H1a\
 H5/H1a\
@@ -399,25 +341,6 @@ Larmor=899.894229483\
 CorrType=TOCSY\
 Pulseprogram=dipsi2gpph19 ;optional in V1\
 Spectrum_Location=file:Asumepr_CDCl3/2/pdata/1/\
-zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
-;UNIX_CREATE mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3"
-;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/2/ser" ) then 
-;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/2" "CSH_NAME_CSH/Asumepr_CDCl3"
-;UNIX_CREATE   rm -r "CSH_NAME_CSH/Asumepr_CDCl3/2/pdata"
-;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3/2/pdata"
-;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/2/pdata/1" "CSH_NAME_CSH/Asumepr_CDCl3/2/pdata"
-;UNIX_CREATE else 
-;UNIX_CREATE   if (! $?notok) then
-;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/2/ser in C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/"
-;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of Asumepr_CDCl3"
-;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/2"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
-;UNIX_CREATE     set notok="1" 
-;UNIX_CREATE   else
-;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/2"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
-;UNIX_CREATE   endif 
-;UNIX_CREATE endif 
-;UNIX_CREATE 
 H1b/H1a\
 H4/H1a\
 H5/H1a\
@@ -508,25 +431,6 @@ Larmor=899.894229696\
 CorrType=HSQC-EDITED\
 Pulseprogram=hsqcedetgpsisp2.4 ;optional in V1\
 Spectrum_Location=file:Asumepr_CDCl3/10/pdata/1/\
-zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
-;UNIX_CREATE mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3"
-;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/10/ser" ) then 
-;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/10" "CSH_NAME_CSH/Asumepr_CDCl3"
-;UNIX_CREATE   rm -r "CSH_NAME_CSH/Asumepr_CDCl3/10/pdata"
-;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3/10/pdata"
-;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/10/pdata/1" "CSH_NAME_CSH/Asumepr_CDCl3/10/pdata"
-;UNIX_CREATE else 
-;UNIX_CREATE   if (! $?notok) then
-;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/10/ser in C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/"
-;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of Asumepr_CDCl3"
-;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/10"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
-;UNIX_CREATE     set notok="1" 
-;UNIX_CREATE   else
-;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/10"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
-;UNIX_CREATE   endif 
-;UNIX_CREATE endif 
-;UNIX_CREATE 
 1/H1a\
 1/H1b\
 3/H3\
@@ -561,25 +465,6 @@ Larmor=899.894228448\
 CorrType=HMBC\
 Pulseprogram=hmbcetgpl3nd ;optional in V1\
 Spectrum_Location=file:Asumepr_CDCl3/11/pdata/1/\
-zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
-;UNIX_CREATE mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3"
-;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/11/ser" ) then 
-;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/11" "CSH_NAME_CSH/Asumepr_CDCl3"
-;UNIX_CREATE   rm -r "CSH_NAME_CSH/Asumepr_CDCl3/11/pdata"
-;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3/11/pdata"
-;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/11/pdata/1" "CSH_NAME_CSH/Asumepr_CDCl3/11/pdata"
-;UNIX_CREATE else 
-;UNIX_CREATE   if (! $?notok) then
-;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/11/ser in C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/"
-;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of Asumepr_CDCl3"
-;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/11"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
-;UNIX_CREATE     set notok="1" 
-;UNIX_CREATE   else
-;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/11"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
-;UNIX_CREATE   endif 
-;UNIX_CREATE endif 
-;UNIX_CREATE 
 3/H1a\
 4/H1a\
 5/H1a\
@@ -667,25 +552,6 @@ Larmor=899.894142328783\
 CorrType=NOESY\
 Pulseprogram=noesygpphpp ;optional in V1\
 Spectrum_Location=file:Asumepr_CDCl3/7/pdata/1/\
-zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
-;UNIX_CREATE mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3"
-;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/7/ser" ) then 
-;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/7" "CSH_NAME_CSH/Asumepr_CDCl3"
-;UNIX_CREATE   rm -r "CSH_NAME_CSH/Asumepr_CDCl3/7/pdata"
-;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/Asumepr_CDCl3/7/pdata"
-;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/7/pdata/1" "CSH_NAME_CSH/Asumepr_CDCl3/7/pdata"
-;UNIX_CREATE else 
-;UNIX_CREATE   if (! $?notok) then
-;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/Asumepr_CDCl3/7/ser in C:/Users/Lianne/Documents/Macrocycles/Asunaprevir/Spectra/"
-;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of Asumepr_CDCl3"
-;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/7"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
-;UNIX_CREATE     set notok="1" 
-;UNIX_CREATE   else
-;UNIX_CREATE     echo "cp  "\""Asumepr_CDCl3/7"\" \""UNIX_WO_PATH/CSH_NAME_CSH/Asumepr_CDCl3"\"
-;UNIX_CREATE   endif 
-;UNIX_CREATE endif 
-;UNIX_CREATE 
 H1b/H1a\
 H4/H1a\
 H5/H1a\
@@ -857,35 +723,6 @@ H41/H51\
 Larmor=900.13\
 Pulseprogram= ;optional in V1\
 Spectrum_Location=file:undefined\undefined\undefined\undefined\\
-zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
-;UNIX_CREATE mkdir -p "CSH_NAME_CSH\undefined"
-;UNIX_CREATE if ( -f "" ) then 
-;UNIX_CREATE   cp -rp  "undefined\undefined" "CSH_NAME_CSH\undefined"
-;UNIX_CREATE   rm -r "CSH_NAME_CSH\undefined\undefined\pdata"
-;UNIX_CREATE   mkdir -p "CSH_NAME_CSH\undefined\undefined\pdata"
-;UNIX_CREATE   cp -rp  "undefined\undefined\undefined\undefined" "CSH_NAME_CSH\undefined\undefined\undefined"
-;UNIX_CREATE else 
-;UNIX_CREATE   if (! $?notok) then
-;UNIX_CREATE     echo "Could not find the file : in "
-;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of undefined"
-;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     echo "cp  "\""undefined\undefined"\" \""UNIX_WO_PATH\CSH_NAME_CSH\undefined"\"
-;UNIX_CREATE     set notok="1" 
-;UNIX_CREATE   else
-;UNIX_CREATE     echo "cp  "\""undefined\undefined"\" \""UNIX_WO_PATH\CSH_NAME_CSH\undefined"\"
-;UNIX_CREATE   endif 
-;UNIX_CREATE endif 
-;UNIX_CREATE 
-;UNIX_CREATE cat  "compound1.nmredata.sdf"| grep -v  UNIX_CREATE> "CSH_NAME_CSH/compound1.nmredata.sdf"
-;UNIX_CREATE if (! $?notok) then
-;UNIX_CREATE echo "Zipping folder CSH_NAME_CSH" 
-;UNIX_CREATE rm "CSH_NAME_CSH.zip" 
-;UNIX_CREATE zip -q -r "CSH_NAME_CSH.zip" "CSH_NAME_CSH" -x "*.DS_Store" -x ".*" -x "_*"
-;UNIX_CREATE else
-;UNIX_CREATE echo "cd "\""UNIX_WO_PATH"\"
-;UNIX_CREATE echo 'rm  "CSH_NAME_CSH.zip" '
-;UNIX_CREATE echo 'zip -q -r "CSH_NAME_CSH.zip" "CSH_NAME_CSH" -x "*.DS_Store" -x ".*" -x "_*"'
-;UNIX_CREATE endif
 ;4.3482, L=H1a;found no H multiplet for this H\
 ;4.0457, L=H1b;found no H multiplet for this H\
 ;4.5311, L=H3;found no H multiplet for this H\
