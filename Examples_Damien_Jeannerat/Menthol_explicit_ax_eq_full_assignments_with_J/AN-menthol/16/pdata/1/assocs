@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 7
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 6	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ 2017-11-28 15:29:24.662 +0100  nmr@CZC60678L0
+$$ /opt/topspin3.5pl5/data/lacour/data/nmr/nmr/AN-menthol/16/pdata/1/assocs
+$$ process /opt/topspin3.5pl7/prog/mod/dataserver
+##$MULTDISP= </opt/topspin3.5pl5/data/lacour/data/nmr/nmr/AN-menthol/13/pdata/1>
+##END=

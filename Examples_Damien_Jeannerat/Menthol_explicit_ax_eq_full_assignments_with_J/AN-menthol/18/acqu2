@@ -1,0 +1,23 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 7
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 3	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ 2017-10-19 14:18:59.619 +0200  nmr@CZC60678L0
+$$ /opt/topspin3.5pl5/data/lacour/data/nmr/nmr/AN-menthol/18/acqu2
+$$ process /opt/topspin3.5pl7/prog/mod/dataserver
+##$ACQT0= 0
+##$BF1= 500.13
+##$FnMODE= 5
+##$NUC1= <1H>
+##$NusJSP= 0
+##$NusT2= 1
+##$NusTD= 0
+##$O1= 1000.26000001208
+##$ProjAngle= 0
+##$SFO1= 500.13100026
+##$SW= 0.10000022999954
+##$SW_h= 50.0132150559
+##$TD= 64
+##END=

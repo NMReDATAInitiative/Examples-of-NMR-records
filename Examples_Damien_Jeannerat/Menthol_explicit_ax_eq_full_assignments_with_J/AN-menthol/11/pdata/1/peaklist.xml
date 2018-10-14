@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmr" date="2017-10-19T11:53:36.055+02:00" expNo="11" name="AN-menthol" owner="" procNo="1" source="/opt/topspin3.5pl5/data/lacour/data/nmr/nmr">
+      <PeakPickDetails>F1=262.057312ppm, F2=-62.064716ppm, MI=0.00cm, MAXI=10000.00cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="232.603836" intensity="1.718474e+00" type="0"/>
+    <Peak1D F1="77.269508" intensity="4.401023e+00" type="0"/>
+    <Peak1D F1="77.016289" intensity="4.994654e+00" type="0"/>
+    <Peak1D F1="76.762802" intensity="6.260942e+00" type="0"/>
+    <Peak1D F1="71.560028" intensity="6.263987e+00" type="0"/>
+    <Peak1D F1="50.144840" intensity="6.711600e+00" type="0"/>
+    <Peak1D F1="45.049637" intensity="1.007191e+01" type="0"/>
+    <Peak1D F1="34.537975" intensity="1.177109e+01" type="0"/>
+    <Peak1D F1="31.639538" intensity="8.146377e+00" type="0"/>
+    <Peak1D F1="25.841408" intensity="7.985017e+00" type="0"/>
+    <Peak1D F1="23.123798" intensity="1.089959e+01" type="0"/>
+    <Peak1D F1="22.222811" intensity="1.500000e+01" type="0"/>
+    <Peak1D F1="21.016348" intensity="1.444910e+01" type="0"/>
+    <Peak1D F1="16.093473" intensity="1.155786e+01" type="0"/>
+  </PeakList1D>
+</PeakList>

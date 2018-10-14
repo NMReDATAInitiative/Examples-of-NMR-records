@@ -1,0 +1,8 @@
+COSY high-res
+djref1_cosy CDCl3
+TD=8k x 2k
+NS=4
+SW=3.5x3.5ppm
+AQ1=234ms
+AQ2=585ms
+exp.time=10h30min
