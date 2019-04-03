@@ -7,5 +7,5 @@ Includes a NMREDATA_J tag with assigned homonuclear coupling constants.
 Note that it does not include a DOI, it is therefore not ready for submission to a journal.
 This folder was too large (>100 MB) to be accepted on github it was therefore uploaded with full file structures.
 
-### Examples or NMReDATA records
+### Examples of ZIPed NMReDATA records
 These examples are "working" examples with diverse features for test (coupling to 19F, etc.). We do not guaranty that they fullfill the requirements of the format.
