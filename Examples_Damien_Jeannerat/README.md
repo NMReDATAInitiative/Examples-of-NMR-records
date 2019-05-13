@@ -1,3 +1,6 @@
+Updated May 11th 2019 by Damien Jeannerat
+J coupling in menthol example (in the May folder) were corrected (Manually- could not verify values and consistency yet...)
+
 Updated May 8th 2019
 
 # Examples of NMR records
