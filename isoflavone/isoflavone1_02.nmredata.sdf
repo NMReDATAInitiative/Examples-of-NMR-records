@@ -1,0 +1,405 @@
+ 
+  ChemDraw09241814022D
+ 
+ 31 34  0  0  0  0  0  0  0  0999 V2000
+   -2.0927    0.2404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0927   -0.5846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3783   -0.9971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6638   -0.5846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6638    0.2404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3783    0.6529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0507   -0.9971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7652   -0.5846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7652    0.2404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0507    0.6529    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0507   -1.8221    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8072   -0.9971    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8072    0.6529    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5217    0.2404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5217   -0.5846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3783    1.4779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6638    1.8904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6638    2.7154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0507    3.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3783    3.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4796   -0.9971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4796   -1.8221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1941   -2.2346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9086   -1.8221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9086   -0.9971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1941   -0.5846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3656   -3.0416    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1861   -3.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5217   -2.3742    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1941    0.2404    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4796    0.6529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  1  1  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10  5  1  0  0  0  0
+  7 11  2  0  0  0  0
+  2 12  1  0  0  0  0
+  1 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 26 21  1  0  0  0  0
+ 23 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 28 29  1  0  0  0  0
+ 29 24  1  0  0  0  0
+ 26 30  1  0  0  0  0
+ 30 31  1  0  0  0  0
+M  END
+>  <NMREDATA_VERSION>
+1.1\
+
+>  <NMREDATA_SOLVENT>
+CDCl3\
+
+>  <NMREDATA_LEVEL>
+0\
+
+>  <NMREDATA_ASSIGNMENT>
+1, 151.9443, 1\
+2, 151.1317, 2\
+H3, 7.5740, H3\
+3, 104.0823, 3\
+4, 120.8969, 4\
+5, 150.1544, 5\
+6, 124.8247, 6\
+7, 176.0452, 7\
+8, 121.5595, 8\
+H9, 7.9659, H9\
+9, 154.3472, 9\
+H14, 3.9170, H14\
+14, 61.2320, 14\
+H15, 3.9477, H15\
+15, 56.1614, 15\
+H16, 3.5853, H16\
+16, 23.1479, 16\
+H17, 5.2201, H17\
+17, 121.7379, 17\
+18, 132.7377, 18\
+H19, 1.6907, H19\
+19, 25.9291, 19\
+H20, 1.8297, H20\
+20, 18.0612, 20\
+21, 113.2424, 21\
+H22, 6.8233, H22\
+22, 111.3256, 22\
+23, 141.3491, 23\
+24, 148.5308, 24\
+H25, 6.6278, H25\
+25, 95.6188, 25\
+26, 153.1712, 26\
+H28, 5.9580, H28\
+28, 101.4216, 28\
+H31, 3.7382, H31\
+31, 57.0484, 31\
+
+>  <NMREDATA_J>
+16, 17, 7.2\
+
+>  <NMREDATA_1D_1H>
+Larmor=799.873759389\
+Pulseprogram=zg30 ;optional in V1\
+Spectrum_Location=file:TSE_28F/11/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE echo ";Copy spectra for compound1"
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/TSE_28F"
+;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/NMReDATA/Natprod_Millettia/TSE_28F/11/fid" ) then 
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/Natprod_Millettia/TSE_28F/11" "CSH_NAME_CSH/TSE_28F"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/TSE_28F/11/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/TSE_28F/11/pdata"
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/Natprod_Millettia/TSE_28F/11/pdata/1" "CSH_NAME_CSH/TSE_28F/11/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/Natprod_Millettia/TSE_28F/11/fid in C:/Users/Lianne/Documents/NMReDATA/Natprod_Millettia/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of TSE_28F"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""TSE_28F/11"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""TSE_28F/11"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+7.5740, S=s, L=H3, E=34.8605; found H multiplet by label chem shifts differ by 0.000002 ppm\
+7.9690, S=s, L=H9, E=34.4412; found H multiplet by label chem shifts differ by -0.003089 ppm\
+3.9204, S=s, L=H14, E=109.1379; found H multiplet by label chem shifts differ by -0.003352 ppm\
+3.9512, S=s, L=H15, E=112.4927; found H multiplet by label chem shifts differ by -0.003408 ppm\
+3.5828, S=s, L=H16, E=37.3033; found H multiplet by label chem shifts differ by 0.002454 ppm\
+5.2198, S=ddt, L=H17, E=39.6115, J=1.32,5.68,7.18; found H multiplet by label chem shifts differ by 0.000283 ppm\
+1.6933, S=d, L=H19, E=105.2748, J=1.67; found H multiplet by label chem shifts differ by -0.002549 ppm\
+1.8300, S=d, L=H20, E=111.1674, J=1.39; found H multiplet by label chem shifts differ by -0.000312 ppm\
+6.8238, S=s, L=H22, E=32.8508; found H multiplet by label chem shifts differ by -0.000495 ppm\
+6.6287, S=s, L=H25, E=32.9731; found H multiplet by label chem shifts differ by -0.000912 ppm\
+5.9583, S=s, L=H28, E=76.5645; found H multiplet by label chem shifts differ by -0.000336 ppm\
+3.7373, S=s, L=H31, E=106.3070; found H multiplet by label chem shifts differ by 0.000914 ppm\
+
+>  <NMREDATA_1D_13C>
+Larmor=201.14959502181\
+Pulseprogram=zgzrse ;optional in V1\
+Spectrum_Location=file:TSE_28F/12/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/TSE_28F"
+;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/NMReDATA/Natprod_Millettia/TSE_28F/12/fid" ) then 
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/Natprod_Millettia/TSE_28F/12" "CSH_NAME_CSH/TSE_28F"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/TSE_28F/12/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/TSE_28F/12/pdata"
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/Natprod_Millettia/TSE_28F/12/pdata/1" "CSH_NAME_CSH/TSE_28F/12/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/Natprod_Millettia/TSE_28F/12/fid in C:/Users/Lianne/Documents/NMReDATA/Natprod_Millettia/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of TSE_28F"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""TSE_28F/12"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""TSE_28F/12"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+151.9443, L=1, I=36.2745, E=1.5203;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+151.1317, L=2, I=40.6044, E=1.7324;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+104.0836, L=3, I=116.2101, E=5.2174;errcs=0.001296 ppm (This is how far this peak is from the assigned resonance)\
+120.8969, L=4, I=41.7726, E=1.7555;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+150.1544, L=5, I=36.0300, E=1.4765;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+124.8247, L=6, I=46.5947, E=1.9377;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+176.0452, L=7, I=44.5743, E=1.8940;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+121.5595, L=8, I=44.3798, E=1.8691;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+154.3472, L=9, I=107.7207, E=26.8760;errcs=0.000034 ppm (This is how far this peak is from the assigned resonance)\
+61.2436, L=14, I=78.6149, E=11.1957;errcs=0.011652 ppm (This is how far this peak is from the assigned resonance)\
+56.1750, L=15, I=131.3645, E=5.6576;errcs=0.013665 ppm (This is how far this peak is from the assigned resonance)\
+23.1342, L=16, I=125.2672, E=5.7738;errcs=-0.013681 ppm (This is how far this peak is from the assigned resonance)\
+121.7183, L=17, I=111.8519, E=4.8158;errcs=-0.019606 ppm (This is how far this peak is from the assigned resonance)\
+132.7377, L=18, I=43.0364, E=1.7365;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+25.8899, L=19, I=116.9141, E=4.9012;errcs=-0.039263 ppm (This is how far this peak is from the assigned resonance)\
+18.0340, L=20, I=71.2341, E=10.7201;errcs=-0.027191 ppm (This is how far this peak is from the assigned resonance)\
+113.2424, L=21, I=42.0492, E=6.5937;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+111.3267, L=22, I=118.2631, E=19.2934;errcs=0.001064 ppm (This is how far this peak is from the assigned resonance)\
+141.3491, L=23, I=31.8747, E=4.8892;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+148.5308, L=24, I=37.4681, E=12.2669;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+95.6211, L=25, I=123.2004, E=33.6303;errcs=0.002250 ppm (This is how far this peak is from the assigned resonance)\
+153.1712, L=26, I=35.8723, E=7.3750;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+;nothing at 101.4216 ppm , for signal 28; found 1) no multiplet at this EXACT chem shift or  label 2) no peak +/-0.05 pmm in peak list (smallest:0.094414)\
+57.0580, L=31, I=109.9435, E=4.6113;errcs=0.009557 ppm (This is how far this peak is from the assigned resonance)\
+
+>  <NMREDATA_2D_1H_NJ_1H>
+Larmor=799.873759389\
+CorrType=COSY\
+Pulseprogram=cosygpqf ;optional in V1\
+Spectrum_Location=file:TSE_28F/13/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/TSE_28F"
+;UNIX_CREATE if ( -f "C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/TSE_28F/13/ser" ) then 
+;UNIX_CREATE   cp -rp  "C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/TSE_28F/13" "CSH_NAME_CSH/TSE_28F"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/TSE_28F/13/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/TSE_28F/13/pdata"
+;UNIX_CREATE   cp -rp  "C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/TSE_28F/13/pdata/1" "CSH_NAME_CSH/TSE_28F/13/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/TSE_28F/13/ser in C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of TSE_28F"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""TSE_28F/13"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""TSE_28F/13"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+H17/H16\
+H16/H17\
+
+>  <NMREDATA_2D_1H_TJ_1H>
+Larmor=799.873759389\
+CorrType=TOCSY\
+Pulseprogram=dipsi2gpphzs ;optional in V1\
+Spectrum_Location=file:TSE_28F/14/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/TSE_28F"
+;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/NMReDATA/Natprod_Millettia/TSE_28F/14/ser" ) then 
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/Natprod_Millettia/TSE_28F/14" "CSH_NAME_CSH/TSE_28F"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/TSE_28F/14/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/TSE_28F/14/pdata"
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/Natprod_Millettia/TSE_28F/14/pdata/1" "CSH_NAME_CSH/TSE_28F/14/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/Natprod_Millettia/TSE_28F/14/ser in C:/Users/Lianne/Documents/NMReDATA/Natprod_Millettia/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of TSE_28F"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""TSE_28F/14"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""TSE_28F/14"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+H17/H16\
+H19/H16\
+H20/H16\
+H16/H17\
+H19/H17\
+H20/H17\
+H16/H19\
+H17/H19\
+H20/H19\
+H16/H20\
+H17/H20\
+H19/H20\
+
+>  <NMREDATA_2D_13C_unidentified_heteronuclear_2d_spectrum_1H>
+Larmor=799.8737605\
+CorrType=HSQC-EDITED\
+Pulseprogram=hsqcedetgpsisp2.4 ;optional in V1\
+Spectrum_Location=file:TSE_28F/16/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/TSE_28F"
+;UNIX_CREATE if ( -f "C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/TSE_28F/16/ser" ) then 
+;UNIX_CREATE   cp -rp  "C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/TSE_28F/16" "CSH_NAME_CSH/TSE_28F"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/TSE_28F/16/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/TSE_28F/16/pdata"
+;UNIX_CREATE   cp -rp  "C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/TSE_28F/16/pdata/1" "CSH_NAME_CSH/TSE_28F/16/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/TSE_28F/16/ser in C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of TSE_28F"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""TSE_28F/16"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""TSE_28F/16"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+3/H3\
+9/H9\
+14/H14\
+15/H15\
+16/H16\
+17/H17\
+19/H19\
+20/H20\
+22/H22\
+25/H25\
+28/H28\
+31/H31\
+
+>  <NMREDATA_2D_13C_NJ_1H>
+Larmor=799.873759389\
+CorrType=HMBC\
+Pulseprogram=hmbcetgpl3nd ;optional in V1\
+Spectrum_Location=file:TSE_28F/17/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/TSE_28F"
+;UNIX_CREATE if ( -f "C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/TSE_28F/17/ser" ) then 
+;UNIX_CREATE   cp -rp  "C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/TSE_28F/17" "CSH_NAME_CSH/TSE_28F"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/TSE_28F/17/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/TSE_28F/17/pdata"
+;UNIX_CREATE   cp -rp  "C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/TSE_28F/17/pdata/1" "CSH_NAME_CSH/TSE_28F/17/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/TSE_28F/17/ser in C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of TSE_28F"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""TSE_28F/17"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""TSE_28F/17"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+1/H3\
+4/H3\
+5/H3\
+7/H3\
+5/H9\
+7/H9\
+8/H9\
+21/H9\
+1/H14\
+2/H15\
+1/H16\
+5/H16\
+6/H16\
+17/H16\
+18/H16\
+19/H17\
+20/H17\
+17/H19\
+18/H19\
+20/H19\
+17/H20\
+18/H20\
+19/H20\
+8/H22\
+23/H22\
+24/H22\
+26/H22\
+21/H25\
+23/H25\
+24/H25\
+26/H25\
+23/H28\
+24/H28\
+26/H31\
+
+>  <NMREDATA_2D_1H_D_1H>
+Larmor=799.873759389\
+CorrType=NOESY\
+Pulseprogram=noesygpph ;optional in V1\
+Spectrum_Location=file:TSE_28F/15/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/TSE_28F"
+;UNIX_CREATE if ( -f "C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/TSE_28F/15/ser" ) then 
+;UNIX_CREATE   cp -rp  "C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/TSE_28F/15" "CSH_NAME_CSH/TSE_28F"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/TSE_28F/15/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/TSE_28F/15/pdata"
+;UNIX_CREATE   cp -rp  "C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/TSE_28F/15/pdata/1" "CSH_NAME_CSH/TSE_28F/15/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/TSE_28F/15/ser in C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of TSE_28F"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""TSE_28F/15"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""TSE_28F/15"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+;UNIX_CREATE cat  "compound1.nmredata.sdf"| grep -v  UNIX_CREATE> "CSH_NAME_CSH/compound1.nmredata.sdf"
+;UNIX_CREATE if (! $?notok) then
+;UNIX_CREATE echo "Zipping folder CSH_NAME_CSH" 
+;UNIX_CREATE rm "CSH_NAME_CSH.zip" 
+;UNIX_CREATE zip -q -r "CSH_NAME_CSH.zip" "CSH_NAME_CSH" -x "*.DS_Store" -x ".*" -x "_*"
+;UNIX_CREATE else
+;UNIX_CREATE echo "cd "\""UNIX_WO_PATH"\"
+;UNIX_CREATE echo 'rm  "CSH_NAME_CSH.zip" '
+;UNIX_CREATE echo 'zip -q -r "CSH_NAME_CSH.zip" "CSH_NAME_CSH" -x "*.DS_Store" -x ".*" -x "_*"'
+;UNIX_CREATE endif
+H15/H3\
+H3/H15\
+H31/H25\
+H25/H31\
+
+$$$$

@@ -1,0 +1,685 @@
+ 
+  ChemDraw10201823322D
+ 
+ 44 47  0  0  0  0  0  0  0  0999 V2000
+   -2.4182   -0.3017    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4182   -1.1259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7044   -1.5381    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9906   -1.1259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9906   -0.3017    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7044    0.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2768   -1.5381    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4370   -1.1259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4370   -0.3017    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2768    0.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1509    0.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1509    0.9347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4370    1.3468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2768    0.9347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8635    0.5232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1497   -0.7131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9906    0.5225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9906   -1.9502    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6596    0.7366    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0249    2.0606    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8492    2.0606    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7044   -2.3623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9906   -2.7744    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4182   -2.7744    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2878   -2.1214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4370    2.7744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1165    0.8242    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2923    0.8242    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8303    0.4121    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2425   -1.1259    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2425   -0.3017    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8303   -1.8398    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6889   -2.2519    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0684   -1.6558    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1353   -2.2519    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5802   -1.9377    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5630    1.6485    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9906    1.3468    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4980   -1.4601    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8967   -1.0615    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2425    0.1537    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8730    1.5327    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3540    0.3240    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5675    0.6938    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  1  1  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10  5  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 10  2  0  0  0  0
+ 12 15  1  0  0  0  0
+  9 16  1  1  0  0  0
+ 16 15  1  0  0  0  0
+ 12 13  1  0  0  0  0
+  5 17  1  6  0  0  0
+  4 18  1  1  0  0  0
+ 15 19  2  0  0  0  0
+ 13 20  1  6  0  0  0
+ 13 21  1  1  0  0  0
+  3 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 24  2  0  0  0  0
+  3 25  1  1  0  0  0
+ 20 26  1  0  0  0  0
+  6 27  1  6  0  0  0
+  6 28  1  1  0  0  0
+  1 29  1  1  0  0  0
+  2 30  1  1  0  0  0
+  1 31  1  6  0  0  0
+  2 32  1  6  0  0  0
+  7 33  1  1  0  0  0
+  8 34  1  1  0  0  0
+  7 35  1  6  0  0  0
+  8 36  1  6  0  0  0
+ 12 37  1  0  0  0  0
+ 14 38  1  0  0  0  0
+ 16 39  1  6  0  0  0
+ 16 40  1  1  0  0  0
+ 19 41  1  0  0  0  0
+ 19 42  1  0  0  0  0
+ 11 43  1  1  0  0  0
+ 11 44  1  6  0  0  0
+M  END
+>  <NMREDATA_VERSION>
+1.1\
+
+>  <NMREDATA_SOLVENT>
+CDCl3\
+
+>  <NMREDATA_LEVEL>
+0\
+
+>  <NMREDATA_ASSIGNMENT>
+1, 20.0248, 1\
+2, 38.1920, 2\
+3, 44.6891, 3\
+4, 46.1893, 4\
+5, 38.9659, 5\
+6, 40.6266, 6\
+7, 18.3472, 7\
+8, 29.0501, 8\
+9, 43.4560, 9\
+10, 160.3381, 10\
+11, 40.6001, 11\
+12, 43.7861, 12\
+13, 81.8233, 13\
+14, 115.4301, 14\
+15, 153.0223, 15\
+16, 47.1815, 16\
+H17, 1.0091, H17\
+17, 23.4481, 17\
+18, 1.5570, 18\
+19, 108.1932, 19\
+21, 3.3749, 21\
+22, 183.3086, 22\
+H25, 1.1708, H25\
+25, 28.2664, 25\
+H26, 3.3422, H26\
+26, 56.5857, 26\
+27, 1.9034, 27\
+28, 1.1495, 28\
+29, 1.4505, 29\
+30, 2.0789, 30\
+31, 1.8064, 31\
+32, 0.9348, 32\
+33, 1.7932, 33\
+34, 1.9350, 34\
+35, 2.4204, 35\
+36, 1.4048, 36\
+37, 2.8885, 37\
+38, 5.3059, 38\
+39, 2.0564, 39\
+40, 2.3497, 40\
+41, 4.8437, 41\
+42, 4.9414, 42\
+43, 1.3102, 43\
+44, 1.5878, 44\
+
+>  <NMREDATA_J>
+
+>  <NMREDATA_1D_1H>
+Larmor=800.06975939\
+Pulseprogram=zg30 ;optional in V1\
+Spectrum_Location=file:SOY_21C4/11/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE echo ";Copy spectra for compound1"
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/SOY_21C4"
+;UNIX_CREATE if ( -f "E:/Users/Backups/SouaibouYaouba/SOY_21C4/11/fid" ) then 
+;UNIX_CREATE   cp -rp  "E:/Users/Backups/SouaibouYaouba/SOY_21C4/11" "CSH_NAME_CSH/SOY_21C4"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/SOY_21C4/11/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/SOY_21C4/11/pdata"
+;UNIX_CREATE   cp -rp  "E:/Users/Backups/SouaibouYaouba/SOY_21C4/11/pdata/1" "CSH_NAME_CSH/SOY_21C4/11/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :E:/Users/Backups/SouaibouYaouba/SOY_21C4/11/fid in E:/Users/Backups/SouaibouYaouba/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of SOY_21C4"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""SOY_21C4/11"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOY_21C4"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""SOY_21C4/11"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOY_21C4"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+;1.0091, L=H17;found no H multiplet for this H\
+1.5578, L=18, I=1713.3250, E=8.2819;errcs=0.000766 ppm (This is how far this peak is from the assigned resonance)\
+;1.5570, L=H18;found no H multiplet for this H\
+3.3760, L=21, I=1260.5038, E=4.3597;errcs=0.001067 ppm (This is how far this peak is from the assigned resonance)\
+;3.3749, L=H21;found no H multiplet for this H\
+;1.1708, L=H25;found no H multiplet for this H\
+;3.3422, L=H26;found no H multiplet for this H\
+1.9026, L=27, I=73.8133, E=0.2912;errcs=-0.000824 ppm (This is how far this peak is from the assigned resonance)\
+;1.9034, L=H27;found no H multiplet for this H\
+1.1399, S=dd, L=28, E=178.1054, J=4.23,13.54; found multiplet by label chem shifts differ by 0.009628 ppm\
+1.1399, S=dd, L=H28, E=178.1054, J=4.23,13.54; found H multiplet by label chem shifts differ by 0.009634 ppm\
+1.4277, S=dtd, L=29&36, E=63.0501, J=2.52,8.41,9.29,14.18; found multiplet by label chem shifts differ by 0.022830 ppm\
+1.4277, S=dtd, L=H29, E=63.0501, J=2.52,8.41,9.29,14.18; found H multiplet by label chem shifts differ by 0.022848 ppm\
+2.0793, S=tt, L=30&39, E=488.6107, J=3.49,15.36; found multiplet by label chem shifts differ by -0.000387 ppm\
+2.0793, S=tt, L=H30, E=488.6107, J=3.49,15.36; found H multiplet by label chem shifts differ by -0.000420 ppm\
+1.8243, S=ddd, L=31&33, E=251.1404, J=3.67,10.96,17.86; found multiplet by label chem shifts differ by -0.017869 ppm\
+1.8243, S=ddd, L=H31, E=251.1404, J=3.67,10.96,17.86; found H multiplet by label chem shifts differ by -0.017832 ppm\
+0.9332, S=td, L=32, E=213.4454, J=3.93,13.49; found multiplet by label chem shifts differ by 0.001595 ppm\
+0.9332, S=td, L=H32, E=213.4454, J=3.93,13.49; found H multiplet by label chem shifts differ by 0.001604 ppm\
+1.8243, S=ddd, L=31&33, E=251.1404, J=3.67,10.96,17.86; found multiplet by label chem shifts differ by -0.031069 ppm\
+;1.7932, L=H33;found no H multiplet for this H\
+1.9454, S=dt, L=34, E=198.8504, J=9.96,13.71; found multiplet by label chem shifts differ by -0.010424 ppm\
+1.9454, S=dt, L=H34, E=198.8504, J=9.96,13.71; found H multiplet by label chem shifts differ by -0.010387 ppm\
+2.4283, S=dddd, L=35, E=217.9950, J=1.63,9.39,11.12,14.48; found multiplet by label chem shifts differ by -0.007852 ppm\
+2.4283, S=dddd, L=H35, E=217.9950, J=1.63,9.39,11.12,14.48; found H multiplet by label chem shifts differ by -0.007812 ppm\
+1.4277, S=dtd, L=29&36, E=63.0501, J=2.52,8.41,9.29,14.18; found multiplet by label chem shifts differ by -0.022870 ppm\
+;1.4048, L=H36;found no H multiplet for this H\
+2.8905, L=37, I=92.2532, E=0.5619;errcs=0.002029 ppm (This is how far this peak is from the assigned resonance)\
+;2.8885, L=H37;found no H multiplet for this H\
+5.3060, L=38, I=1732.3768, E=5.7816;errcs=0.000143 ppm (This is how far this peak is from the assigned resonance)\
+;5.3059, L=H38;found no H multiplet for this H\
+2.0793, S=tt, L=30&39, E=488.6107, J=3.49,15.36; found multiplet by label chem shifts differ by -0.022887 ppm\
+;2.0564, L=H39;found no H multiplet for this H\
+2.3543, L=40, I=909.5596, E=5.7349;errcs=0.004591 ppm (This is how far this peak is from the assigned resonance)\
+;2.3497, L=H40;found no H multiplet for this H\
+4.8435, L=41, I=2723.5639, E=16.8890;errcs=-0.000273 ppm (This is how far this peak is from the assigned resonance)\
+;4.8437, L=H41;found no H multiplet for this H\
+4.9426, S=dd, L=42, E=202.4496, J=1.56,3.01; found multiplet by label chem shifts differ by -0.001194 ppm\
+4.9426, S=dd, L=H42, E=202.4496, J=1.56,3.01; found H multiplet by label chem shifts differ by -0.001209 ppm\
+1.3130, S=dd, L=43, E=199.7276, J=5.29,10.82; found multiplet by label chem shifts differ by -0.002837 ppm\
+1.3130, S=dd, L=H43, E=199.7276, J=5.29,10.82; found H multiplet by label chem shifts differ by -0.002819 ppm\
+1.5944, S=dd, L=44, E=218.6611, J=2.76,10.78; found multiplet by label chem shifts differ by -0.006648 ppm\
+1.5944, S=dd, L=H44, E=218.6611, J=2.76,10.78; found H multiplet by label chem shifts differ by -0.006683 ppm\
+
+>  <NMREDATA_1D_13C>
+Larmor=201.198885157\
+Pulseprogram=zgzrse ;optional in V1\
+Spectrum_Location=file:SOY_21C4/12/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/SOY_21C4"
+;UNIX_CREATE if ( -f "E:/Users/Backups/SouaibouYaouba/SOY_21C4/12/fid" ) then 
+;UNIX_CREATE   cp -rp  "E:/Users/Backups/SouaibouYaouba/SOY_21C4/12" "CSH_NAME_CSH/SOY_21C4"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/SOY_21C4/12/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/SOY_21C4/12/pdata"
+;UNIX_CREATE   cp -rp  "E:/Users/Backups/SouaibouYaouba/SOY_21C4/12/pdata/1" "CSH_NAME_CSH/SOY_21C4/12/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :E:/Users/Backups/SouaibouYaouba/SOY_21C4/12/fid in E:/Users/Backups/SouaibouYaouba/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of SOY_21C4"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""SOY_21C4/12"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOY_21C4"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""SOY_21C4/12"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOY_21C4"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+;nothing at 20.0248 ppm , for signal 1; found 1) no multiplet at this EXACT chem shift or  label 2) no peak +/-0.05 pmm in peak list (smallest:0.071067)\
+38.1853, L=2, I=548.8013, E=26.0972;errcs=-0.006674 ppm (This is how far this peak is from the assigned resonance)\
+44.6891, L=3, I=397.1259, E=16.9992;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+46.1818, L=4, I=571.2565, E=24.7557;errcs=-0.007488 ppm (This is how far this peak is from the assigned resonance)\
+38.9659, L=5, I=355.7716, E=14.6976;errcs=0.000000 ppm (This is how far this peak is from the assigned resonance)\
+40.6240, L=6, I=533.9288, E=23.6383;errcs=-0.002616 ppm (This is how far this peak is from the assigned resonance)\
+18.3612, L=7, I=533.9352, E=25.1433;errcs=0.013984 ppm (This is how far this peak is from the assigned resonance)\
+29.0459, L=8, I=574.5399, E=27.4990;errcs=-0.004263 ppm (This is how far this peak is from the assigned resonance)\
+43.4564, L=9, I=382.2877, E=15.5634;errcs=0.000362 ppm (This is how far this peak is from the assigned resonance)\
+160.3382, L=10, I=263.4524, E=11.4718;errcs=0.000130 ppm (This is how far this peak is from the assigned resonance)\
+40.6035, L=11, I=640.5560, E=28.2194;errcs=0.003377 ppm (This is how far this peak is from the assigned resonance)\
+43.7957, L=12, I=583.0013, E=27.6570;errcs=0.009549 ppm (This is how far this peak is from the assigned resonance)\
+81.8150, L=13, I=531.6261, E=22.7473;errcs=-0.008288 ppm (This is how far this peak is from the assigned resonance)\
+115.4290, L=14, I=479.0129, E=20.8050;errcs=-0.001048 ppm (This is how far this peak is from the assigned resonance)\
+153.0227, L=15, I=288.2912, E=11.9120;errcs=0.000419 ppm (This is how far this peak is from the assigned resonance)\
+47.1758, L=16, I=575.8536, E=26.3398;errcs=-0.005700 ppm (This is how far this peak is from the assigned resonance)\
+23.4540, L=17, I=569.1983, E=24.4819;errcs=0.005931 ppm (This is how far this peak is from the assigned resonance)\
+108.1797, L=19, I=496.6692, E=22.8539;errcs=-0.013540 ppm (This is how far this peak is from the assigned resonance)\
+183.3087, L=22, I=258.5180, E=11.9311;errcs=0.000100 ppm (This is how far this peak is from the assigned resonance)\
+28.2576, L=25, I=600.5808, E=27.5100;errcs=-0.008760 ppm (This is how far this peak is from the assigned resonance)\
+56.5805, L=26, I=450.0718, E=19.6599;errcs=-0.005174 ppm (This is how far this peak is from the assigned resonance)\
+
+>  <NMREDATA_2D_13C_unidentified_heteronuclear_2d_spectrum_1H>
+Larmor=800.0697605\
+CorrType=HSQC-EDITED\
+Pulseprogram=hsqcedetgpsisp2.4 ;optional in V1\
+Spectrum_Location=file:SOY_21C4/16/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/SOY_21C4"
+;UNIX_CREATE if ( -f "E:/Users/Backups/SouaibouYaouba/SOY_21C4/16/ser" ) then 
+;UNIX_CREATE   cp -rp  "E:/Users/Backups/SouaibouYaouba/SOY_21C4/16" "CSH_NAME_CSH/SOY_21C4"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/SOY_21C4/16/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/SOY_21C4/16/pdata"
+;UNIX_CREATE   cp -rp  "E:/Users/Backups/SouaibouYaouba/SOY_21C4/16/pdata/1" "CSH_NAME_CSH/SOY_21C4/16/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :E:/Users/Backups/SouaibouYaouba/SOY_21C4/16/ser in E:/Users/Backups/SouaibouYaouba/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of SOY_21C4"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""SOY_21C4/16"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOY_21C4"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""SOY_21C4/16"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOY_21C4"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+17/H17\
+4/H18\
+13/H21\
+25/H25\
+26/H26\
+6/H27\
+6/H28\
+1/H29\
+2/H30\
+1/H31\
+2/H32\
+7/H33\
+8/H34\
+7/H35\
+8/H36\
+14/H38\
+16/H39\
+16/H40\
+19/H41\
+19/H42\
+11/H43\
+11/H44\
+
+>  <NMREDATA_2D_13C_NJ_1H>
+Larmor=800.06975939\
+CorrType=HMBC\
+Pulseprogram=hmbcetgpl3nd ;optional in V1\
+Spectrum_Location=file:SOY_21C4/17/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/SOY_21C4"
+;UNIX_CREATE if ( -f "E:/Users/Backups/SouaibouYaouba/SOY_21C4/17/ser" ) then 
+;UNIX_CREATE   cp -rp  "E:/Users/Backups/SouaibouYaouba/SOY_21C4/17" "CSH_NAME_CSH/SOY_21C4"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/SOY_21C4/17/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/SOY_21C4/17/pdata"
+;UNIX_CREATE   cp -rp  "E:/Users/Backups/SouaibouYaouba/SOY_21C4/17/pdata/1" "CSH_NAME_CSH/SOY_21C4/17/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :E:/Users/Backups/SouaibouYaouba/SOY_21C4/17/ser in E:/Users/Backups/SouaibouYaouba/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of SOY_21C4"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""SOY_21C4/17"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOY_21C4"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""SOY_21C4/17"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOY_21C4"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+4/H17\
+5/H17\
+6/H17\
+10/H17\
+3/H18\
+5/H18\
+6/H18\
+7/H18\
+10/H18\
+22/H18\
+10/H21\
+11/H21\
+12/H21\
+14/H21\
+15/H21\
+17/H21\
+26/H21\
+2/H25\
+3/H25\
+4/H25\
+13/H26\
+1/H27\
+2/H27\
+5/H27\
+17/H27\
+1/H28\
+5/H28\
+10/H28\
+17/H28\
+2/H29\
+3/H29\
+6/H29\
+1/H30\
+3/H30\
+4/H30\
+6/H30\
+2/H31\
+3/H31\
+4/H31\
+5/H31\
+6/H31\
+1/H32\
+3/H32\
+4/H32\
+6/H32\
+22/H32\
+25/H32\
+4/H33\
+5/H33\
+8/H33\
+7/H34\
+9/H34\
+10/H34\
+11/H34\
+16/H34\
+3/H35\
+4/H35\
+8/H35\
+9/H35\
+4/H36\
+5/H36\
+7/H36\
+9/H36\
+10/H36\
+16/H36\
+5/H38\
+10/H38\
+12/H38\
+13/H38\
+16/H38\
+17/H38\
+8/H39\
+9/H39\
+10/H39\
+13/H39\
+15/H39\
+10/H40\
+11/H40\
+12/H40\
+15/H40\
+19/H40\
+12/H41\
+13/H41\
+15/H41\
+16/H41\
+12/H42\
+13/H42\
+15/H42\
+16/H42\
+8/H43\
+10/H43\
+12/H43\
+13/H43\
+16/H43\
+12/H44\
+13/H44\
+15/H44\
+16/H44\
+
+>  <NMREDATA_2D_1H_NJ_1H>
+Larmor=800.06975939\
+CorrType=COSY\
+Pulseprogram=cosygpqf ;optional in V1\
+Spectrum_Location=file:SOY_21C4/13/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/SOY_21C4"
+;UNIX_CREATE if ( -f "E:/Users/Backups/SouaibouYaouba/SOY_21C4/13/ser" ) then 
+;UNIX_CREATE   cp -rp  "E:/Users/Backups/SouaibouYaouba/SOY_21C4/13" "CSH_NAME_CSH/SOY_21C4"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/SOY_21C4/13/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/SOY_21C4/13/pdata"
+;UNIX_CREATE   cp -rp  "E:/Users/Backups/SouaibouYaouba/SOY_21C4/13/pdata/1" "CSH_NAME_CSH/SOY_21C4/13/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :E:/Users/Backups/SouaibouYaouba/SOY_21C4/13/ser in E:/Users/Backups/SouaibouYaouba/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of SOY_21C4"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""SOY_21C4/13"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOY_21C4"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""SOY_21C4/13"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOY_21C4"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+H33/H18\
+H35/H18\
+H38/H21\
+H28/H27\
+H27/H28\
+H29/H28\
+H31/H28\
+H28/H29\
+H30/H29\
+H31/H29\
+H32/H29\
+H29/H30\
+H31/H30\
+H32/H30\
+H28/H31\
+H29/H31\
+H30/H31\
+H32/H31\
+H29/H32\
+H30/H32\
+H31/H32\
+H18/H33\
+H34/H33\
+H35/H33\
+H33/H34\
+H35/H34\
+H36/H34\
+H18/H35\
+H33/H35\
+H34/H35\
+H34/H36\
+H21/H38\
+H40/H39\
+H41/H39\
+H42/H39\
+H39/H40\
+H41/H40\
+H42/H40\
+H44/H40\
+H39/H41\
+H40/H41\
+H41/H41\
+H39/H42\
+H40/H42\
+H44/H43\
+H40/H44\
+H43/H44\
+
+>  <NMREDATA_2D_1H_TJ_1H>
+Larmor=800.06975939\
+CorrType=TOCSY\
+Pulseprogram=dipsi2gpphzs ;optional in V1\
+Spectrum_Location=file:SOY_21C4/14/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/SOY_21C4"
+;UNIX_CREATE if ( -f "E:/Users/Backups/SouaibouYaouba/SOY_21C4/14/ser" ) then 
+;UNIX_CREATE   cp -rp  "E:/Users/Backups/SouaibouYaouba/SOY_21C4/14" "CSH_NAME_CSH/SOY_21C4"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/SOY_21C4/14/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/SOY_21C4/14/pdata"
+;UNIX_CREATE   cp -rp  "E:/Users/Backups/SouaibouYaouba/SOY_21C4/14/pdata/1" "CSH_NAME_CSH/SOY_21C4/14/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :E:/Users/Backups/SouaibouYaouba/SOY_21C4/14/ser in E:/Users/Backups/SouaibouYaouba/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of SOY_21C4"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""SOY_21C4/14"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOY_21C4"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""SOY_21C4/14"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOY_21C4"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+H35/H18\
+H38/H21\
+H30/H28\
+H31/H28\
+H32/H28\
+H33/H28\
+H32/H29\
+H28/H30\
+H32/H30\
+H28/H31\
+H32/H31\
+H28/H32\
+H29/H32\
+H30/H32\
+H31/H32\
+H33/H32\
+H28/H33\
+H32/H33\
+H35/H33\
+H18/H35\
+H33/H35\
+H36/H35\
+H35/H36\
+H21/H38\
+H43/H38\
+H40/H39\
+H41/H39\
+H42/H39\
+H39/H40\
+H41/H40\
+H42/H40\
+H39/H41\
+H40/H41\
+H43/H41\
+H39/H42\
+H40/H42\
+H38/H43\
+H41/H43\
+
+>  <NMREDATA_2D_1H_D_1H>
+Larmor=800.06975939\
+CorrType=NOESY\
+Pulseprogram=noesygpphzs ;optional in V1\
+Spectrum_Location=file:SOY_21C4/15/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/SOY_21C4"
+;UNIX_CREATE if ( -f "E:/Users/Backups/SouaibouYaouba/SOY_21C4/15/ser" ) then 
+;UNIX_CREATE   cp -rp  "E:/Users/Backups/SouaibouYaouba/SOY_21C4/15" "CSH_NAME_CSH/SOY_21C4"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/SOY_21C4/15/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/SOY_21C4/15/pdata"
+;UNIX_CREATE   cp -rp  "E:/Users/Backups/SouaibouYaouba/SOY_21C4/15/pdata/1" "CSH_NAME_CSH/SOY_21C4/15/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :E:/Users/Backups/SouaibouYaouba/SOY_21C4/15/ser in E:/Users/Backups/SouaibouYaouba/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of SOY_21C4"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""SOY_21C4/15"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOY_21C4"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""SOY_21C4/15"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOY_21C4"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+;UNIX_CREATE cat  "compound1.nmredata.sdf"| grep -v  UNIX_CREATE> "CSH_NAME_CSH/compound1.nmredata.sdf"
+;UNIX_CREATE if (! $?notok) then
+;UNIX_CREATE echo "Zipping folder CSH_NAME_CSH" 
+;UNIX_CREATE rm "CSH_NAME_CSH.zip" 
+;UNIX_CREATE zip -q -r "CSH_NAME_CSH.zip" "CSH_NAME_CSH" -x "*.DS_Store" -x ".*" -x "_*"
+;UNIX_CREATE else
+;UNIX_CREATE echo "cd "\""UNIX_WO_PATH"\"
+;UNIX_CREATE echo 'rm  "CSH_NAME_CSH.zip" '
+;UNIX_CREATE echo 'zip -q -r "CSH_NAME_CSH.zip" "CSH_NAME_CSH" -x "*.DS_Store" -x ".*" -x "_*"'
+;UNIX_CREATE endif
+H27/H17\
+H31/H17\
+H35/H17\
+H38/H17\
+H25/H18\
+H32/H18\
+H33/H18\
+H34/H18\
+H40/H18\
+H37/H21\
+H38/H21\
+H42/H21\
+H44/H21\
+H18/H25\
+H30/H25\
+H32/H25\
+H33/H25\
+H35/H25\
+H37/H26\
+H38/H26\
+H17/H27\
+H28/H27\
+H38/H27\
+H27/H28\
+H38/H28\
+H32/H29\
+H25/H30\
+H31/H30\
+H32/H30\
+H17/H31\
+H30/H31\
+H18/H32\
+H25/H32\
+H29/H32\
+H30/H32\
+H18/H33\
+H25/H33\
+H34/H33\
+H35/H33\
+H36/H33\
+H18/H34\
+H33/H34\
+H35/H34\
+H36/H34\
+H44/H34\
+H17/H35\
+H25/H35\
+H33/H35\
+H34/H35\
+H36/H35\
+H33/H36\
+H34/H36\
+H35/H36\
+H39/H36\
+H43/H36\
+H21/H37\
+H26/H37\
+H17/H38\
+H21/H38\
+H26/H38\
+H27/H38\
+H28/H38\
+H36/H39\
+H40/H39\
+H41/H39\
+H43/H39\
+H18/H40\
+H39/H40\
+H41/H40\
+H39/H41\
+H40/H41\
+H21/H42\
+H36/H43\
+H39/H43\
+H44/H43\
+H21/H44\
+H34/H44\
+H43/H44\
+
+$$$$

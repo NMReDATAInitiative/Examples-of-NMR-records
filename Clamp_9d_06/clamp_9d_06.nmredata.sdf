@@ -1,0 +1,322 @@
+ 
+  ChemDraw09251815482D
+ 
+ 28 30  0  0  0  0  0  0  0  0999 V2000
+   -2.1434    2.6812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    1.4437    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.6812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    3.0938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    3.9187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    1.4437    0.0000 D   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.0313    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -2.2687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -2.6812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.2687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -3.5062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -3.9187    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -3.9187    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -3.0938    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  1  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  9 10  3  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 11  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 17 18  3  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 24 19  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 25 28  1  0  0  0  0
+M  END
+>  <NMREDATA_VERSION>
+1.1\
+
+>  <NMREDATA_SOLVENT>
+CD2Cl2\
+
+>  <NMREDATA_LEVEL>
+0\
+
+>  <NMREDATA_ASSIGNMENT>
+H1, 7.1222, H1\
+1, 124.6650, 1\
+2, 150.2086, 2\
+3, -72.0133, 3\
+4, 143.3570, 4\
+H5, 7.5483, H5\
+5, 128.9313, 5\
+6, 148.1351, 6\
+H7, 2.3573, H7\
+7, 21.0908, 7\
+9, 94.2608, 9\
+10, 86.9417, 10\
+11, 125.3092, 11\
+12, 126.4142, 12\
+H13, 7.6779, H13\
+13, 132.8050, 13\
+H14, 7.4369, H14\
+14, 129.9588, 14\
+H15, 7.4369, H15\
+15, 129.4143, 15\
+H16, 7.6779, H16\
+16, 132.6136, 16\
+17, 89.6495, 17\
+18, 92.5241, 18\
+19, 145.1454, 19\
+20, -53.8933, 20\
+H21, 8.8142, H21\
+21, 151.6424, 21\
+H22, 7.4917, H22\
+22, 118.8875, 22\
+23, 138.9853, 23\
+H24, 8.0994, H24\
+24, 124.1267, 24\
+25, 123.1272, 25\
+
+>  <NMREDATA_J>
+H1, H7, 0.8\
+H22, H24, 1.7\
+
+>  <NMREDATA_1D_1H>
+Larmor=800.069759390124\
+Pulseprogram=zg30 ;optional in V1\
+Spectrum_Location=file:SOL_A_032_3D/11/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE echo ";Copy spectra for compound1"
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/SOL_A_032_3D"
+;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/11/fid" ) then 
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/11" "CSH_NAME_CSH/SOL_A_032_3D"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/SOL_A_032_3D/11/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/SOL_A_032_3D/11/pdata"
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/11/pdata/1" "CSH_NAME_CSH/SOL_A_032_3D/11/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/11/fid in C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of SOL_A_032_3D"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""SOL_A_032_3D/11"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOL_A_032_3D"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""SOL_A_032_3D/11"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOL_A_032_3D"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+7.1222, S=dq, L=H1, E=351.2964, J=1.70,0.80; found H multiplet by label chem shifts differ by 0.000000 ppm\
+7.5403, S=dd, L=H5, E=355.8351, J=1.70,0.80; found H multiplet by label chem shifts differ by 0.007986 ppm\
+2.3573, S=dd, L=H7, E=984.0331, J=0.80; found H multiplet by label chem shifts differ by 0.000000 ppm\
+7.6779, S=m, L=H13, E=767.7949; found H multiplet by label chem shifts differ by 0.000000 ppm\
+7.4369, S=m, L=H14, E=847.1887; found H multiplet by label chem shifts differ by 0.000000 ppm\
+;7.4369, L=H15;found no H multiplet for this H\
+;7.6779, L=H16;found no H multiplet for this H\
+8.8147, S=dq, L=H21, E=353.1622, J=5.10,0.70; found H multiplet by label chem shifts differ by -0.000530 ppm\
+7.4917, S=ddq, L=H22, E=376.9355, J=5.10,1.70,0.70; found H multiplet by label chem shifts differ by 0.000000 ppm\
+8.0994, S=dqd, L=H24, E=324.3921, J=1.70,0.80; found H multiplet by label chem shifts differ by 0.000000 ppm\
+
+>  <NMREDATA_1D_13C>
+Larmor=201.19888511299\
+Pulseprogram=zgzrse ;optional in V1\
+Spectrum_Location=file:SOL_A_032_3D/20/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/SOL_A_032_3D"
+;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/20/fid" ) then 
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/20" "CSH_NAME_CSH/SOL_A_032_3D"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/SOL_A_032_3D/20/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/SOL_A_032_3D/20/pdata"
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/20/pdata/1" "CSH_NAME_CSH/SOL_A_032_3D/20/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/20/fid in C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of SOL_A_032_3D"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""SOL_A_032_3D/20"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOL_A_032_3D"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""SOL_A_032_3D/20"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOL_A_032_3D"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+124.6650, S=s, N=1, L=1, E=29.0246; found multiplet by chemical shift \
+150.2086, S=t, N=1, L=2, J=, E=9.6793; found multiplet by chemical shift \
+143.3570, S=s, N=1, L=4, E=10.7535; found multiplet by chemical shift \
+128.9313, S=s, N=1, L=5, E=28.1676; found multiplet by chemical shift \
+148.1351, S=s, N=1, L=6, E=9.1640; found multiplet by chemical shift \
+21.0908, S=s, N=3, L=7, E=13.7931; found multiplet by chemical shift \
+94.2608, S=s, N=1, L=9, E=11.1295; found multiplet by chemical shift \
+86.9417, S=s, N=1, L=10, E=12.0108; found multiplet by chemical shift \
+125.3092, S=s, N=1, L=11, E=12.1432; found multiplet by chemical shift \
+126.4142, S=s, N=1, L=12, E=11.6809; found multiplet by chemical shift \
+132.8050, S=s, N=1, L=13, E=27.8809; found multiplet by chemical shift \
+129.9588, S=s, N=1, L=14, E=27.8905; found multiplet by chemical shift \
+129.4143, S=s, N=1, L=15, E=27.2248; found multiplet by chemical shift \
+132.6136, S=s, N=1, L=16, E=30.2713; found multiplet by chemical shift \
+89.6495, S=s, N=1, L=17, E=11.2945; found multiplet by chemical shift \
+92.5241, S=s, N=1, L=18, E=10.9257; found multiplet by chemical shift \
+145.1454, S=s, N=1, L=19, E=10.6857; found multiplet by chemical shift \
+151.6057, S=s, L=21, E=26.7731; found multiplet by label chem shifts differ by 0.036691 ppm\
+118.8875, S=d, N=1, L=22, J=4.34, E=31.2008; found multiplet by chemical shift \
+138.9853, S=q, N=1, L=23, J=34.27, E=11.5844; found multiplet by chemical shift \
+124.1267, S=q, N=1, L=24, J=4.35, E=28.1687; found multiplet by chemical shift \
+123.1272, S=q, N=1, L=25, J=, E=8.9415; found multiplet by chemical shift \
+
+>  <NMREDATA_2D_13C_unidentified_heteronuclear_2d_spectrum_1H>
+Larmor=800.069759390124\
+CorrType=HSQC-EDITED\
+Pulseprogram=hsqcedetgpsisp2.3 ;optional in V1\
+Spectrum_Location=file:SOL_A_032_3D/30/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/SOL_A_032_3D"
+;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/30/ser" ) then 
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/30" "CSH_NAME_CSH/SOL_A_032_3D"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/SOL_A_032_3D/30/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/SOL_A_032_3D/30/pdata"
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/30/pdata/1" "CSH_NAME_CSH/SOL_A_032_3D/30/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/30/ser in C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of SOL_A_032_3D"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""SOL_A_032_3D/30"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOL_A_032_3D"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""SOL_A_032_3D/30"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOL_A_032_3D"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+1/H1\
+7/H7\
+13/H13\
+14/H14\
+15/H15\
+16/H16\
+21/H21\
+22/H22\
+24/H24\
+
+>  <NMREDATA_2D_13C_NJ_1H>
+Larmor=800.069759390124\
+CorrType=HMBC\
+Pulseprogram=hmbcetgpl3nd ;optional in V1\
+Spectrum_Location=file:SOL_A_032_3D/40/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/SOL_A_032_3D"
+;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/40/ser" ) then 
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/40" "CSH_NAME_CSH/SOL_A_032_3D"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/SOL_A_032_3D/40/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/SOL_A_032_3D/40/pdata"
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/40/pdata/1" "CSH_NAME_CSH/SOL_A_032_3D/40/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/40/ser in C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of SOL_A_032_3D"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""SOL_A_032_3D/40"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOL_A_032_3D"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""SOL_A_032_3D/40"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOL_A_032_3D"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+
+>  <NMREDATA_2D_13C_NJ_1H#2>
+Larmor=800.06920026\
+CorrType=HMBC\
+Pulseprogram=hmbcgpndqf ;optional in V1\
+Spectrum_Location=file:SOL_A_032_3D/50/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/SOL_A_032_3D"
+;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/50/ser" ) then 
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/50" "CSH_NAME_CSH/SOL_A_032_3D"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/SOL_A_032_3D/50/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/SOL_A_032_3D/50/pdata"
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/50/pdata/1" "CSH_NAME_CSH/SOL_A_032_3D/50/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/50/ser in C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of SOL_A_032_3D"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""SOL_A_032_3D/50"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOL_A_032_3D"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""SOL_A_032_3D/50"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOL_A_032_3D"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+;UNIX_CREATE cat  "compound1.nmredata.sdf"| grep -v  UNIX_CREATE> "CSH_NAME_CSH/compound1.nmredata.sdf"
+;UNIX_CREATE if (! $?notok) then
+;UNIX_CREATE echo "Zipping folder CSH_NAME_CSH" 
+;UNIX_CREATE rm "CSH_NAME_CSH.zip" 
+;UNIX_CREATE zip -q -r "CSH_NAME_CSH.zip" "CSH_NAME_CSH" -x "*.DS_Store" -x ".*" -x "_*"
+;UNIX_CREATE else
+;UNIX_CREATE echo "cd "\""UNIX_WO_PATH"\"
+;UNIX_CREATE echo 'rm  "CSH_NAME_CSH.zip" '
+;UNIX_CREATE echo 'zip -q -r "CSH_NAME_CSH.zip" "CSH_NAME_CSH" -x "*.DS_Store" -x ".*" -x "_*"'
+;UNIX_CREATE endif
+2/H1\
+5/H1\
+7/H1\
+1/H5\
+4/H5\
+7/H5\
+9/H5\
+1/H7\
+5/H7\
+6/H7\
+12/H13\
+14/H13\
+16/H13\
+17/H13\
+12/H14\
+13/H14\
+17/H14\
+10/H15\
+11/H15\
+16/H15\
+10/H16\
+11/H16\
+13/H16\
+15/H16\
+19/H21\
+22/H21\
+23/H21\
+24/H21\
+21/H22\
+24/H22\
+18/H24\
+19/H24\
+22/H24\
+23/H24\
+
+$$$$

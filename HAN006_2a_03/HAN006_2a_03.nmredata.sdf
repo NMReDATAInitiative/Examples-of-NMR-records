@@ -1,0 +1,914 @@
+ 
+  ChemDraw09251811042D
+ 
+ 64 65  0  0  0  0  0  0  0  0999 V2000
+   -0.9214    4.3413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1245    4.5548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3339    3.6268    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0890    5.3517    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5900    4.1423    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3868    4.3559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9702    3.7725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7616    3.9845    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9214    2.9124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7567    2.9756    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1692    2.2611    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4201    2.2624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2324    2.3693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1066    1.5055    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9557    1.4642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9661    2.4747    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1643    1.2522    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5350    0.8849    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6054    0.8555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1245    2.6988    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7329    1.7171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5470    3.1289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4734    4.9544    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2271    4.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1409    3.7984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2907    0.0960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4205    0.9628    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9528   -4.1545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1560   -4.3681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3653   -3.4401    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9424   -5.1650    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4415   -3.9556    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3554   -4.1691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9388   -3.5857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7301   -3.7978    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9528   -2.7256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7252   -2.7888    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1377   -2.0744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4516   -2.0756    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1381   -1.3187    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9242   -1.2775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1329   -1.0654    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5035   -0.6982    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6368   -0.6687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1560   -2.5121    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2667   -2.1829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9528   -2.1817    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4533   -1.5294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7672   -1.5307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5813   -2.9425    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2684   -1.6367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5831   -2.3963    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7689   -0.9845    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4519   -0.7761    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4704    0.1497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4533   -4.8068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1130    0.7331    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1130    1.5581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2684   -4.6995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5831   -3.9399    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7689   -5.3517    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5281   -0.1220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3222    0.0908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8136    0.2905    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  3  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 20  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  1  1  0  0  0
+ 12 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 16  1  1  0  0  0
+ 15 17  2  0  0  0  0
+ 15 18  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 13 22  1  0  0  0  0
+  1 23  1  6  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25  3  1  0  0  0  0
+ 19 26  1  0  0  0  0
+ 19 27  2  0  0  0  0
+ 18 63  1  0  0  0  0
+ 28 29  1  0  0  0  0
+ 28 30  1  0  0  0  0
+ 29 31  2  0  0  0  0
+ 29 32  1  0  0  0  0
+ 32 33  1  0  0  0  0
+ 33 34  1  0  0  0  0
+ 34 35  2  0  0  0  0
+ 30 36  1  0  0  0  0
+ 34 37  1  0  0  0  0
+ 37 38  1  0  0  0  0
+ 36 45  2  0  0  0  0
+ 36 39  1  0  0  0  0
+ 39 40  1  0  0  0  0
+ 38 41  1  0  0  0  0
+ 41 42  2  0  0  0  0
+ 41 43  1  0  0  0  0
+ 40 44  1  0  0  0  0
+ 39 46  1  1  0  0  0
+ 38 47  1  1  0  0  0
+ 47 48  1  0  0  0  0
+ 46 49  1  0  0  0  0
+ 46 50  1  0  0  0  0
+ 48 51  1  0  0  0  0
+ 51 52  2  0  0  0  0
+ 51 53  1  0  0  0  0
+ 44 54  2  0  0  0  0
+ 44 63  1  0  0  0  0
+ 43 26  1  0  0  0  0
+ 26 55  1  6  0  0  0
+ 28 56  1  1  0  0  0
+ 55 57  1  0  0  0  0
+ 57 58  1  0  0  0  0
+ 56 59  1  0  0  0  0
+ 59 60  2  0  0  0  0
+ 59 61  1  0  0  0  0
+ 63 62  1  6  0  0  0
+ 62 64  1  0  0  0  0
+M  ISO  1  16  13
+M  END
+>  <NMREDATA_VERSION>
+1.1\
+
+>  <NMREDATA_SOLVENT>
+DMSO\
+
+>  <NMREDATA_LEVEL>
+0\
+
+>  <NMREDATA_ASSIGNMENT>
+H1, 4.2824, H1\
+H5, 8.5507, H5\
+H6a, 3.8432, H6\
+H6b, 3.4093, H6\
+H10, 7.6516, H10\
+H11, 4.6217, H11\
+H12, 4.2824, H12\
+H13, 1.9137, H13\
+H14, 8.5390, H14\
+H16, 1.2219, H16\
+H18, 8.3391, H18\
+H21, 0.7771, H21\
+H22, 0.8167, H22\
+H23a, 2.0168, H23\
+H23b, 2.0677, H23\
+H24a, 1.7173, H24\
+H24b, 1.8495, H24\
+H25a, 3.5558, H25\
+H25b, 3.4795, H25\
+H26, 4.7382, H26\
+H28, 4.0744, H28\
+H30, 9.2231, H30\
+H32, 7.9799, H32\
+H33a, 3.2366, H33\
+H33b, 3.8432, H33\
+H37, 7.5689, H37\
+H38, 4.5070, H38\
+H39, 4.1863, H39\
+H40, 8.5390, H40\
+H43, 8.7201, H43\
+H46, 1.8495, H46\
+H47a, 2.0677, H47\
+H47b, 2.0168, H47\
+H48a, 1.8495, H48\
+H48b, 1.7173, H48\
+H49, 0.7771, H49\
+H50, 0.8167, H50\
+H53a, 7.0600, H53\
+H53b, 6.7300, H53\
+H55a, 3.4795, H55\
+H55b, 3.5558, H55\
+H56a, 2.4453, H56\
+H56b, 2.9113, H56\
+H58, 3.2106, H58\
+H61a, 7.3816, H61\
+H61b, 6.8200, H61\
+H62a, 3.3015, H62\
+H62b, 3.5558, H62\
+H63, 4.8401, H63\
+H64, 4.7842, H64\
+
+>  <NMREDATA_J>
+H5, H6'', 5.1\
+H6', H6'', 17.1\
+H10, H11, 9.2\
+H11, H16, 7.0\
+H12, H14, 9.5\
+16, H16, 128.8\
+H18, H63, 9.2\
+H26, H43, 7.2\
+H28, H30, 6.4\
+H28, H56'', 6.0\
+H28, H56', 8.2\
+H32, H33'', 6.2\
+H32, H33', 5.4\
+H33', H33'', 17.1\
+H37, H38, 9.2\
+H39, H40, 8.6\
+H39, H46, 8.8\
+H53', H53'', 2.3\
+H56', H56'', 15.9\
+H61', H61'', 2.2\
+
+>  <NMREDATA_1D_1H>
+Larmor=899.894274266081\
+Pulseprogram=zg ;optional in V1\
+Spectrum_Location=file:HAN006/9/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE echo ";Copy spectra for compound1"
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/HAN006"
+;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/NMReDATA/Peptide_HAN_006/HAN006/9/fid" ) then 
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/Peptide_HAN_006/HAN006/9" "CSH_NAME_CSH/HAN006"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/HAN006/9/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/HAN006/9/pdata"
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/Peptide_HAN_006/HAN006/9/pdata/1" "CSH_NAME_CSH/HAN006/9/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/Peptide_HAN_006/HAN006/9/fid in C:/Users/Lianne/Documents/NMReDATA/Peptide_HAN_006/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of HAN006"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""HAN006/9"\" \""UNIX_WO_PATH/CSH_NAME_CSH/HAN006"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""HAN006/9"\" \""UNIX_WO_PATH/CSH_NAME_CSH/HAN006"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+4.2824, S=m, L=H1, E=124.1127; found H multiplet by label chem shifts differ by 0.000000 ppm\
+8.5390, S=m, L=H5, E=322.4127; found H multiplet by label chem shifts differ by 0.011730 ppm\
+;3.8432, L=H6a;found no H multiplet for this H\
+;3.4093, L=H6b;found no H multiplet for this H\
+7.6516, S=d, L=H10, E=109.7554, J=9.23; found H multiplet by label chem shifts differ by 0.000000 ppm\
+4.6217, S=ddq, L=H11, E=107.0546, J=4.85,6.92,8.97; found H multiplet by label chem shifts differ by 0.000000 ppm\
+;4.2824, L=H12;found no H multiplet for this H\
+1.9137, S=dqq, L=H13, E=71.1030, J=6.69,9.62; found H multiplet by label chem shifts differ by 0.000000 ppm\
+;8.5390, L=H14;found no H multiplet for this H\
+1.2219, S=dd, L=H16, E=460.1352, J=7.08,128.80; found H multiplet by label chem shifts differ by 0.000000 ppm\
+8.3391, S=d, L=H18, E=109.8140, J=9.08; found H multiplet by label chem shifts differ by 0.000000 ppm\
+0.7771, S=m, L=H21, E=857.7109; found H multiplet by label chem shifts differ by 0.000000 ppm\
+0.8167, S=m, L=H22, E=827.8826; found H multiplet by label chem shifts differ by 0.000000 ppm\
+;2.0168, L=H23a;found no H multiplet for this H\
+;2.0677, L=H23b;found no H multiplet for this H\
+;1.7173, L=H24a;found no H multiplet for this H\
+;1.8495, L=H24b;found no H multiplet for this H\
+;3.5558, L=H25a;found no H multiplet for this H\
+;3.4795, L=H25b;found no H multiplet for this H\
+4.7382, S=ddd, L=H26, E=89.5251, J=7.35; found H multiplet by label chem shifts differ by 0.000000 ppm\
+4.0744, S=ddd, L=H28, E=101.9908, J=6.35,8.14; found H multiplet by label chem shifts differ by 0.000000 ppm\
+9.2231, S=d, L=H30, E=115.1861, J=6.46; found H multiplet by label chem shifts differ by 0.000000 ppm\
+7.9799, S=dd, L=H32, E=70.1267, J=6.20; found H multiplet by label chem shifts differ by 0.000000 ppm\
+;3.2366, L=H33a;found no H multiplet for this H\
+;3.8432, L=H33b;found no H multiplet for this H\
+7.5689, S=d, L=H37, E=109.1440, J=9.56; found H multiplet by label chem shifts differ by 0.000000 ppm\
+4.5070, S=ddd, L=H38, E=110.5663, J=5.81,9.38; found H multiplet by label chem shifts differ by 0.000000 ppm\
+4.1863, S=dd, L=H39, E=110.2144, J=8.82; found H multiplet by label chem shifts differ by 0.000000 ppm\
+;8.5390, L=H40;found no H multiplet for this H\
+8.7201, S=d, L=H43, E=112.3501, J=7.14; found H multiplet by label chem shifts differ by 0.000000 ppm\
+;1.8495, L=H46;found no H multiplet for this H\
+;2.0677, L=H47a;found no H multiplet for this H\
+;2.0168, L=H47b;found no H multiplet for this H\
+;1.8495, L=H48a;found no H multiplet for this H\
+;1.7173, L=H48b;found no H multiplet for this H\
+;0.7771, L=H49;found no H multiplet for this H\
+;0.8167, L=H50;found no H multiplet for this H\
+;7.0600, L=H53a;found no H multiplet for this H\
+;6.7300, L=H53b;found no H multiplet for this H\
+;3.4795, L=H55a;found no H multiplet for this H\
+;3.5558, L=H55b;found no H multiplet for this H\
+;2.4453, L=H56a;found no H multiplet for this H\
+;2.9113, L=H56b;found no H multiplet for this H\
+3.2106, S=s, L=H58, E=305.0660; found H multiplet by label chem shifts differ by 0.000000 ppm\
+;7.3816, L=H61a;found no H multiplet for this H\
+;6.8200, L=H61b;found no H multiplet for this H\
+;3.3015, L=H62a;found no H multiplet for this H\
+;3.5558, L=H62b;found no H multiplet for this H\
+4.8401, S=ddd, L=H63, E=102.2876, J=9.12,6.74; found H multiplet by label chem shifts differ by 0.000000 ppm\
+4.7842, S=dd, L=H64, E=118.6742, J=6.16; found H multiplet by label chem shifts differ by 0.000000 ppm\
+
+>  <NMREDATA_2D_1H_TJ_1H>
+Larmor=899.894229483\
+CorrType=TOCSY\
+Pulseprogram=dipsi2gpph19 ;optional in V1\
+Spectrum_Location=file:HAN006/10/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/HAN006"
+;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/NMReDATA/Peptide_HAN_006/HAN006/10/ser" ) then 
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/Peptide_HAN_006/HAN006/10" "CSH_NAME_CSH/HAN006"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/HAN006/10/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/HAN006/10/pdata"
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/Peptide_HAN_006/HAN006/10/pdata/1" "CSH_NAME_CSH/HAN006/10/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/Peptide_HAN_006/HAN006/10/ser in C:/Users/Lianne/Documents/NMReDATA/Peptide_HAN_006/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of HAN006"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""HAN006/10"\" \""UNIX_WO_PATH/CSH_NAME_CSH/HAN006"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""HAN006/10"\" \""UNIX_WO_PATH/CSH_NAME_CSH/HAN006"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+H23b/H1\
+H23a/H1\
+H24b/H1\
+H25b/H1\
+H25a/H1\
+H6b/H5\
+H6a/H5\
+H5/H6a\
+H6b/H6a\
+H5/H6b\
+H6a/H6b\
+H11/H10\
+H16/H10\
+H10/H11\
+H16/H11\
+H13/H12\
+H14/H12\
+H21/H12\
+H22/H12\
+H12/H13\
+H14/H13\
+H21/H13\
+H22/H13\
+H12/H14\
+H13/H14\
+H21/H14\
+H22/H14\
+H10/H16\
+H11/H16\
+H62b/H18\
+H62a/H18\
+H63/H18\
+H64/H18\
+H12/H21\
+H13/H21\
+H14/H21\
+H12/H22\
+H13/H22\
+H14/H22\
+H1/H23a\
+H24b/H23a\
+H24a/H23a\
+H25b/H23a\
+H25a/H23a\
+H1/H23b\
+H24b/H23b\
+H24a/H23b\
+H25b/H23b\
+H25a/H23b\
+H23b/H24a\
+H23a/H24a\
+H24b/H24a\
+H1/H24b\
+H23b/H24b\
+H23a/H24b\
+H24a/H24b\
+H25b/H24b\
+H25a/H24b\
+H1/H25a\
+H23b/H25a\
+H23a/H25a\
+H24b/H25a\
+H1/H25b\
+H23b/H25b\
+H23a/H25b\
+H24b/H25b\
+H43/H26\
+H55b/H26\
+H55a/H26\
+H30/H28\
+H56b/H28\
+H56a/H28\
+H28/H30\
+H56b/H30\
+H56a/H30\
+H33b/H32\
+H33a/H32\
+H32/H33a\
+H33b/H33a\
+H32/H33b\
+H33a/H33b\
+H38/H37\
+H47b/H37\
+H47a/H37\
+H48b/H37\
+H48a/H37\
+H37/H38\
+H47b/H38\
+H47a/H38\
+H48b/H38\
+H48a/H38\
+H40/H39\
+H46/H39\
+H49/H39\
+H50/H39\
+H39/H40\
+H46/H40\
+H49/H40\
+H50/H40\
+H26/H43\
+H55b/H43\
+H55a/H43\
+H39/H46\
+H40/H46\
+H49/H46\
+H50/H46\
+H37/H47a\
+H38/H47a\
+H48b/H47a\
+H48a/H47a\
+H37/H47b\
+H38/H47b\
+H48b/H47b\
+H48a/H47b\
+H37/H48a\
+H38/H48a\
+H47b/H48a\
+H47a/H48a\
+H48b/H48a\
+H37/H48b\
+H38/H48b\
+H47b/H48b\
+H47a/H48b\
+H48a/H48b\
+H39/H49\
+H40/H49\
+H46/H49\
+H39/H50\
+H40/H50\
+H46/H50\
+H53b/H53a\
+H53a/H53b\
+H26/H55a\
+H43/H55a\
+H26/H55b\
+H43/H55b\
+H28/H56a\
+H30/H56a\
+H56b/H56a\
+H28/H56b\
+H30/H56b\
+H56a/H56b\
+H61b/H61a\
+H61a/H61b\
+H18/H62a\
+H63/H62a\
+H64/H62a\
+H18/H62b\
+H63/H62b\
+H64/H62b\
+H18/H63\
+H62b/H63\
+H62a/H63\
+H64/H63\
+H18/H64\
+H62b/H64\
+H62a/H64\
+H63/H64\
+
+>  <NMREDATA_2D_1H_D_1H>
+Larmor=899.894142328783\
+CorrType=NOESY\
+Pulseprogram=noesygpphpp ;optional in V1\
+Spectrum_Location=file:HAN006/2/pdata/1/\
+zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
+;UNIX_CREATE mkdir -p "CSH_NAME_CSH/HAN006"
+;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/NMReDATA/Peptide_HAN_006/HAN006/2/ser" ) then 
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/Peptide_HAN_006/HAN006/2" "CSH_NAME_CSH/HAN006"
+;UNIX_CREATE   rm -r "CSH_NAME_CSH/HAN006/2/pdata"
+;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/HAN006/2/pdata"
+;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/Peptide_HAN_006/HAN006/2/pdata/1" "CSH_NAME_CSH/HAN006/2/pdata"
+;UNIX_CREATE else 
+;UNIX_CREATE   if (! $?notok) then
+;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/Peptide_HAN_006/HAN006/2/ser in C:/Users/Lianne/Documents/NMReDATA/Peptide_HAN_006/"
+;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of HAN006"
+;UNIX_CREATE     echo "type the following command lines:"
+;UNIX_CREATE     echo "cp  "\""HAN006/2"\" \""UNIX_WO_PATH/CSH_NAME_CSH/HAN006"\"
+;UNIX_CREATE     set notok="1" 
+;UNIX_CREATE   else
+;UNIX_CREATE     echo "cp  "\""HAN006/2"\" \""UNIX_WO_PATH/CSH_NAME_CSH/HAN006"\"
+;UNIX_CREATE   endif 
+;UNIX_CREATE endif 
+;UNIX_CREATE 
+;UNIX_CREATE cat  "compound1.nmredata.sdf"| grep -v  UNIX_CREATE> "CSH_NAME_CSH/compound1.nmredata.sdf"
+;UNIX_CREATE if (! $?notok) then
+;UNIX_CREATE echo "Zipping folder CSH_NAME_CSH" 
+;UNIX_CREATE rm "CSH_NAME_CSH.zip" 
+;UNIX_CREATE zip -q -r "CSH_NAME_CSH.zip" "CSH_NAME_CSH" -x "*.DS_Store" -x ".*" -x "_*"
+;UNIX_CREATE else
+;UNIX_CREATE echo "cd "\""UNIX_WO_PATH"\"
+;UNIX_CREATE echo 'rm  "CSH_NAME_CSH.zip" '
+;UNIX_CREATE echo 'zip -q -r "CSH_NAME_CSH.zip" "CSH_NAME_CSH" -x "*.DS_Store" -x ".*" -x "_*"'
+;UNIX_CREATE endif
+H6b/H1\
+H6a/H1\
+H23b/H1\
+H23a/H1\
+H24b/H1\
+H24a/H1\
+H25b/H1\
+H25a/H1\
+H6b/H5\
+H6a/H5\
+H10/H5\
+H16/H5\
+H23b/H5\
+H24b/H5\
+H24a/H5\
+H1/H6a\
+H5/H6a\
+H6b/H6a\
+H10/H6a\
+H1/H6b\
+H5/H6b\
+H6a/H6b\
+H10/H6b\
+H5/H10\
+H6b/H10\
+H6a/H10\
+H11/H10\
+H12/H10\
+H13/H10\
+H16/H10\
+H18/H10\
+H21/H10\
+H22/H10\
+H26/H10\
+H10/H11\
+H14/H11\
+H16/H11\
+H18/H11\
+H62b/H11\
+H62a/H11\
+H63/H11\
+H10/H12\
+H13/H12\
+H14/H12\
+H21/H12\
+H22/H12\
+H26/H12\
+H10/H13\
+H12/H13\
+H14/H13\
+H16/H13\
+H21/H13\
+H22/H13\
+H25b/H13\
+H25a/H13\
+H26/H13\
+H63/H13\
+H11/H14\
+H12/H14\
+H13/H14\
+H26/H14\
+H43/H14\
+H55b/H14\
+H55a/H14\
+H58/H14\
+H5/H16\
+H10/H16\
+H11/H16\
+H13/H16\
+H18/H16\
+H21/H16\
+H10/H18\
+H11/H18\
+H16/H18\
+H21/H18\
+H22/H18\
+H26/H18\
+H40/H18\
+H62b/H18\
+H62a/H18\
+H63/H18\
+H64/H18\
+H10/H21\
+H12/H21\
+H13/H21\
+H16/H21\
+H18/H21\
+H25b/H21\
+H25a/H21\
+H26/H21\
+H10/H22\
+H12/H22\
+H13/H22\
+H18/H22\
+H25b/H22\
+H25a/H22\
+H26/H22\
+H1/H23a\
+H24b/H23a\
+H24a/H23a\
+H1/H23b\
+H5/H23b\
+H24b/H23b\
+H24a/H23b\
+H1/H24a\
+H5/H24a\
+H23b/H24a\
+H23a/H24a\
+H24b/H24a\
+H1/H24b\
+H5/H24b\
+H23b/H24b\
+H23a/H24b\
+H24a/H24b\
+H1/H25a\
+H13/H25a\
+H21/H25a\
+H22/H25a\
+H25b/H25a\
+H1/H25b\
+H13/H25b\
+H21/H25b\
+H22/H25b\
+H25a/H25b\
+H10/H26\
+H12/H26\
+H13/H26\
+H14/H26\
+H18/H26\
+H21/H26\
+H22/H26\
+H38/H26\
+H43/H26\
+H46/H26\
+H55b/H26\
+H55a/H26\
+H58/H26\
+H63/H26\
+H30/H28\
+H32/H28\
+H33b/H28\
+H33a/H28\
+H37/H28\
+H39/H28\
+H49/H28\
+H50/H28\
+H56b/H28\
+H56a/H28\
+H61b/H28\
+H61a/H28\
+H28/H30\
+H32/H30\
+H37/H30\
+H39/H30\
+H40/H30\
+H46/H30\
+H49/H30\
+H50/H30\
+H56b/H30\
+H56a/H30\
+H28/H32\
+H30/H32\
+H33b/H32\
+H33a/H32\
+H37/H32\
+H38/H32\
+H39/H32\
+H40/H32\
+H49/H32\
+H50/H32\
+H56b/H32\
+H56a/H32\
+H64/H32\
+H28/H33a\
+H32/H33a\
+H33b/H33a\
+H37/H33a\
+H64/H33a\
+H28/H33b\
+H32/H33b\
+H33a/H33b\
+H37/H33b\
+H64/H33b\
+H28/H37\
+H30/H37\
+H32/H37\
+H33b/H37\
+H33a/H37\
+H38/H37\
+H39/H37\
+H40/H37\
+H43/H37\
+H47b/H37\
+H47a/H37\
+H48b/H37\
+H48a/H37\
+H49/H37\
+H50/H37\
+H56b/H37\
+H56a/H37\
+H63/H37\
+H64/H37\
+H26/H38\
+H32/H38\
+H37/H38\
+H40/H38\
+H43/H38\
+H47b/H38\
+H47a/H38\
+H48b/H38\
+H48a/H38\
+H55b/H38\
+H55a/H38\
+H28/H39\
+H30/H39\
+H32/H39\
+H37/H39\
+H40/H39\
+H46/H39\
+H49/H39\
+H50/H39\
+H56b/H39\
+H56a/H39\
+H63/H39\
+H18/H40\
+H30/H40\
+H32/H40\
+H37/H40\
+H38/H40\
+H39/H40\
+H46/H40\
+H49/H40\
+H50/H40\
+H62b/H40\
+H62a/H40\
+H63/H40\
+H64/H40\
+H14/H43\
+H26/H43\
+H37/H43\
+H38/H43\
+H47b/H43\
+H47a/H43\
+H48b/H43\
+H48a/H43\
+H49/H43\
+H55b/H43\
+H55a/H43\
+H58/H43\
+H26/H46\
+H30/H46\
+H39/H46\
+H40/H46\
+H49/H46\
+H50/H46\
+H63/H46\
+H37/H47a\
+H38/H47a\
+H43/H47a\
+H48b/H47a\
+H48a/H47a\
+H53b/H47a\
+H53a/H47a\
+H55b/H47a\
+H55a/H47a\
+H37/H47b\
+H38/H47b\
+H43/H47b\
+H48b/H47b\
+H48a/H47b\
+H53b/H47b\
+H53a/H47b\
+H37/H48a\
+H38/H48a\
+H43/H48a\
+H47b/H48a\
+H47a/H48a\
+H48b/H48a\
+H55b/H48a\
+H55a/H48a\
+H37/H48b\
+H38/H48b\
+H43/H48b\
+H47b/H48b\
+H47a/H48b\
+H48a/H48b\
+H28/H49\
+H30/H49\
+H32/H49\
+H37/H49\
+H39/H49\
+H40/H49\
+H43/H49\
+H46/H49\
+H61b/H49\
+H61a/H49\
+H63/H49\
+H28/H50\
+H30/H50\
+H32/H50\
+H37/H50\
+H39/H50\
+H40/H50\
+H46/H50\
+H56b/H50\
+H56a/H50\
+H61b/H50\
+H61a/H50\
+H63/H50\
+H47b/H53a\
+H47a/H53a\
+H53b/H53a\
+H47b/H53b\
+H47a/H53b\
+H53a/H53b\
+H14/H55a\
+H26/H55a\
+H38/H55a\
+H43/H55a\
+H47a/H55a\
+H48a/H55a\
+H55b/H55a\
+H58/H55a\
+H14/H55b\
+H26/H55b\
+H38/H55b\
+H43/H55b\
+H47a/H55b\
+H48a/H55b\
+H55a/H55b\
+H58/H55b\
+H28/H56a\
+H30/H56a\
+H32/H56a\
+H37/H56a\
+H39/H56a\
+H50/H56a\
+H56b/H56a\
+H61b/H56a\
+H61a/H56a\
+H28/H56b\
+H30/H56b\
+H32/H56b\
+H37/H56b\
+H39/H56b\
+H50/H56b\
+H56a/H56b\
+H61b/H56b\
+H61a/H56b\
+H14/H58\
+H26/H58\
+H43/H58\
+H55b/H58\
+H55a/H58\
+H63/H58\
+H28/H61a\
+H49/H61a\
+H50/H61a\
+H56b/H61a\
+H56a/H61a\
+H61b/H61a\
+H28/H61b\
+H49/H61b\
+H50/H61b\
+H56b/H61b\
+H56a/H61b\
+H61a/H61b\
+H11/H62a\
+H18/H62a\
+H40/H62a\
+H62b/H62a\
+H63/H62a\
+H64/H62a\
+H11/H62b\
+H18/H62b\
+H40/H62b\
+H62a/H62b\
+H63/H62b\
+H64/H62b\
+H11/H63\
+H13/H63\
+H18/H63\
+H26/H63\
+H37/H63\
+H39/H63\
+H40/H63\
+H46/H63\
+H49/H63\
+H50/H63\
+H58/H63\
+H62b/H63\
+H62a/H63\
+H64/H63\
+H18/H64\
+H32/H64\
+H33b/H64\
+H33a/H64\
+H37/H64\
+H40/H64\
+H62b/H64\
+H62a/H64\
+H63/H64\
+
+$$$$
