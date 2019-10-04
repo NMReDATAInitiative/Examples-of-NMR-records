@@ -127,10 +127,10 @@ zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6
 ;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/11/fid in C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/"
 ;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of SOL_A_032_3D"
 ;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     echo "cp  "\""SOL_A_032_3D/11"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOL_A_032_3D"\"
+;UNIX_CREATE     
 ;UNIX_CREATE     set notok="1" 
 ;UNIX_CREATE   else
-;UNIX_CREATE     echo "cp  "\""SOL_A_032_3D/11"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOL_A_032_3D"\"
+;UNIX_CREATE     
 ;UNIX_CREATE   endif 
 ;UNIX_CREATE endif 
 ;UNIX_CREATE 
@@ -161,10 +161,10 @@ zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6
 ;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/20/fid in C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/"
 ;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of SOL_A_032_3D"
 ;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     echo "cp  "\""SOL_A_032_3D/20"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOL_A_032_3D"\"
+;UNIX_CREATE     
 ;UNIX_CREATE     set notok="1" 
 ;UNIX_CREATE   else
-;UNIX_CREATE     echo "cp  "\""SOL_A_032_3D/20"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOL_A_032_3D"\"
+;UNIX_CREATE     
 ;UNIX_CREATE   endif 
 ;UNIX_CREATE endif 
 ;UNIX_CREATE 
@@ -191,7 +191,7 @@ zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6
 124.1267, S=q, N=1, L=24, J=4.35, E=28.1687; found multiplet by chemical shift \
 123.1272, S=q, N=1, L=25, J=, E=8.9415; found multiplet by chemical shift \
 
->  <NMREDATA_2D_13C_unidentified_heteronuclear_2d_spectrum_1H>
+>  <NMREDATA_2D_13C_unidentifiedheteronuclear2dspectrum_1H>
 Larmor=800.069759390124\
 CorrType=HSQC-EDITED\
 Pulseprogram=hsqcedetgpsisp2.3 ;optional in V1\
@@ -208,10 +208,9 @@ zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6
 ;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/30/ser in C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/"
 ;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of SOL_A_032_3D"
 ;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     echo "cp  "\""SOL_A_032_3D/30"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOL_A_032_3D"\"
 ;UNIX_CREATE     set notok="1" 
 ;UNIX_CREATE   else
-;UNIX_CREATE     echo "cp  "\""SOL_A_032_3D/30"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOL_A_032_3D"\"
+;UNIX_CREATE     
 ;UNIX_CREATE   endif 
 ;UNIX_CREATE endif 
 ;UNIX_CREATE 
@@ -242,10 +241,10 @@ zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6
 ;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/40/ser in C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/"
 ;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of SOL_A_032_3D"
 ;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     echo "cp  "\""SOL_A_032_3D/40"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOL_A_032_3D"\"
+;UNIX_CREATE     
 ;UNIX_CREATE     set notok="1" 
 ;UNIX_CREATE   else
-;UNIX_CREATE     echo "cp  "\""SOL_A_032_3D/40"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOL_A_032_3D"\"
+;UNIX_CREATE     
 ;UNIX_CREATE   endif 
 ;UNIX_CREATE endif 
 ;UNIX_CREATE 
@@ -267,10 +266,10 @@ zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6
 ;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/50/ser in C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/"
 ;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of SOL_A_032_3D"
 ;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     echo "cp  "\""SOL_A_032_3D/50"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOL_A_032_3D"\"
+;UNIX_CREATE     
 ;UNIX_CREATE     set notok="1" 
 ;UNIX_CREATE   else
-;UNIX_CREATE     echo "cp  "\""SOL_A_032_3D/50"\" \""UNIX_WO_PATH/CSH_NAME_CSH/SOL_A_032_3D"\"
+;UNIX_CREATE     
 ;UNIX_CREATE   endif 
 ;UNIX_CREATE endif 
 ;UNIX_CREATE 
@@ -280,7 +279,7 @@ zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6
 ;UNIX_CREATE rm "CSH_NAME_CSH.zip" 
 ;UNIX_CREATE zip -q -r "CSH_NAME_CSH.zip" "CSH_NAME_CSH" -x "*.DS_Store" -x ".*" -x "_*"
 ;UNIX_CREATE else
-;UNIX_CREATE echo "cd "\""UNIX_WO_PATH"\"
+;UNIX_CREATE 
 ;UNIX_CREATE echo 'rm  "CSH_NAME_CSH.zip" '
 ;UNIX_CREATE echo 'zip -q -r "CSH_NAME_CSH.zip" "CSH_NAME_CSH" -x "*.DS_Store" -x ".*" -x "_*"'
 ;UNIX_CREATE endif

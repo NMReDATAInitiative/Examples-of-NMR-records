@@ -186,9 +186,9 @@ H51, 1.2548, H51\
 51, 28.2709, 51\
 
 >  <NMREDATA_J>
-H1', H1'', 11.8\
-H14', H14'', 5.8\
-H16', H16'', 1.4\
+H1a, H1b, 11.8\
+H14a, H14b, 5.8\
+H16a, H16b, 1.4\
 H31, H33, 2.1\
 H33, H34, 8.8\
 H38, H41, 9.6\
@@ -426,7 +426,7 @@ H41/H43\
 H38/H44\
 H41/H44\
 
->  <NMREDATA_2D_13C_unidentified_heteronuclear_2d_spectrum_1H>
+>  <NMREDATA_2D_13C_unidentifiedheteronuclear2dspectrum_1H>
 Larmor=899.894229696\
 CorrType=HSQC-EDITED\
 Pulseprogram=hsqcedetgpsisp2.4 ;optional in V1\
@@ -722,7 +722,7 @@ H41/H51\
 >  <NMREDATA_1D_1H#2>
 Larmor=900.13\
 Pulseprogram= ;optional in V1\
-Spectrum_Location=file:undefined\undefined\undefined\undefined\\
+Spectrum_Location=file:undefined\
 ;4.3482, L=H1a;found no H multiplet for this H\
 ;4.0457, L=H1b;found no H multiplet for this H\
 ;4.5311, L=H3;found no H multiplet for this H\
