@@ -115,25 +115,6 @@ Larmor=800.069759390124\
 Pulseprogram=zg30 ;optional in V1\
 Spectrum_Location=file:SOL_A_032_3D/11/pdata/1/\
 zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
-;UNIX_CREATE echo ";Copy spectra for compound1"
-;UNIX_CREATE mkdir -p "CSH_NAME_CSH/SOL_A_032_3D"
-;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/11/fid" ) then 
-;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/11" "CSH_NAME_CSH/SOL_A_032_3D"
-;UNIX_CREATE   rm -r "CSH_NAME_CSH/SOL_A_032_3D/11/pdata"
-;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/SOL_A_032_3D/11/pdata"
-;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/11/pdata/1" "CSH_NAME_CSH/SOL_A_032_3D/11/pdata"
-;UNIX_CREATE else 
-;UNIX_CREATE   if (! $?notok) then
-;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/11/fid in C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/"
-;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of SOL_A_032_3D"
-;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     
-;UNIX_CREATE     set notok="1" 
-;UNIX_CREATE   else
-;UNIX_CREATE     
-;UNIX_CREATE   endif 
-;UNIX_CREATE endif 
-;UNIX_CREATE 
 7.1222, S=dq, L=H1, E=351.2964, J=1.70,0.80; found H multiplet by label chem shifts differ by 0.000000 ppm\
 7.5403, S=dd, L=H5, E=355.8351, J=1.70,0.80; found H multiplet by label chem shifts differ by 0.007986 ppm\
 2.3573, S=dd, L=H7, E=984.0331, J=0.80; found H multiplet by label chem shifts differ by 0.000000 ppm\
@@ -150,24 +131,6 @@ Larmor=201.19888511299\
 Pulseprogram=zgzrse ;optional in V1\
 Spectrum_Location=file:SOL_A_032_3D/20/pdata/1/\
 zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
-;UNIX_CREATE mkdir -p "CSH_NAME_CSH/SOL_A_032_3D"
-;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/20/fid" ) then 
-;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/20" "CSH_NAME_CSH/SOL_A_032_3D"
-;UNIX_CREATE   rm -r "CSH_NAME_CSH/SOL_A_032_3D/20/pdata"
-;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/SOL_A_032_3D/20/pdata"
-;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/20/pdata/1" "CSH_NAME_CSH/SOL_A_032_3D/20/pdata"
-;UNIX_CREATE else 
-;UNIX_CREATE   if (! $?notok) then
-;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/20/fid in C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/"
-;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of SOL_A_032_3D"
-;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     
-;UNIX_CREATE     set notok="1" 
-;UNIX_CREATE   else
-;UNIX_CREATE     
-;UNIX_CREATE   endif 
-;UNIX_CREATE endif 
-;UNIX_CREATE 
 124.6650, S=s, N=1, L=1, E=29.0246; found multiplet by chemical shift \
 150.2086, S=t, N=1, L=2, J=, E=9.6793; found multiplet by chemical shift \
 143.3570, S=s, N=1, L=4, E=10.7535; found multiplet by chemical shift \
@@ -197,23 +160,6 @@ CorrType=HSQC-EDITED\
 Pulseprogram=hsqcedetgpsisp2.3 ;optional in V1\
 Spectrum_Location=file:SOL_A_032_3D/30/pdata/1/\
 zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
-;UNIX_CREATE mkdir -p "CSH_NAME_CSH/SOL_A_032_3D"
-;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/30/ser" ) then 
-;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/30" "CSH_NAME_CSH/SOL_A_032_3D"
-;UNIX_CREATE   rm -r "CSH_NAME_CSH/SOL_A_032_3D/30/pdata"
-;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/SOL_A_032_3D/30/pdata"
-;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/30/pdata/1" "CSH_NAME_CSH/SOL_A_032_3D/30/pdata"
-;UNIX_CREATE else 
-;UNIX_CREATE   if (! $?notok) then
-;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/30/ser in C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/"
-;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of SOL_A_032_3D"
-;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     set notok="1" 
-;UNIX_CREATE   else
-;UNIX_CREATE     
-;UNIX_CREATE   endif 
-;UNIX_CREATE endif 
-;UNIX_CREATE 
 1/H1\
 7/H7\
 13/H13\
@@ -230,24 +176,6 @@ CorrType=HMBC\
 Pulseprogram=hmbcetgpl3nd ;optional in V1\
 Spectrum_Location=file:SOL_A_032_3D/40/pdata/1/\
 zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
-;UNIX_CREATE mkdir -p "CSH_NAME_CSH/SOL_A_032_3D"
-;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/40/ser" ) then 
-;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/40" "CSH_NAME_CSH/SOL_A_032_3D"
-;UNIX_CREATE   rm -r "CSH_NAME_CSH/SOL_A_032_3D/40/pdata"
-;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/SOL_A_032_3D/40/pdata"
-;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/40/pdata/1" "CSH_NAME_CSH/SOL_A_032_3D/40/pdata"
-;UNIX_CREATE else 
-;UNIX_CREATE   if (! $?notok) then
-;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/40/ser in C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/"
-;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of SOL_A_032_3D"
-;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     
-;UNIX_CREATE     set notok="1" 
-;UNIX_CREATE   else
-;UNIX_CREATE     
-;UNIX_CREATE   endif 
-;UNIX_CREATE endif 
-;UNIX_CREATE 
 
 >  <NMREDATA_2D_13C_NJ_1H#2>
 Larmor=800.06920026\
@@ -255,34 +183,6 @@ CorrType=HMBC\
 Pulseprogram=hmbcgpndqf ;optional in V1\
 Spectrum_Location=file:SOL_A_032_3D/50/pdata/1/\
 zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
-;UNIX_CREATE mkdir -p "CSH_NAME_CSH/SOL_A_032_3D"
-;UNIX_CREATE if ( -f "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/50/ser" ) then 
-;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/50" "CSH_NAME_CSH/SOL_A_032_3D"
-;UNIX_CREATE   rm -r "CSH_NAME_CSH/SOL_A_032_3D/50/pdata"
-;UNIX_CREATE   mkdir -p "CSH_NAME_CSH/SOL_A_032_3D/50/pdata"
-;UNIX_CREATE   cp -rp  "C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/50/pdata/1" "CSH_NAME_CSH/SOL_A_032_3D/50/pdata"
-;UNIX_CREATE else 
-;UNIX_CREATE   if (! $?notok) then
-;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/SOL_A_032_3D/50/ser in C:/Users/Lianne/Documents/NMReDATA/NXN/SOL_A_032_3D/"
-;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of SOL_A_032_3D"
-;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     
-;UNIX_CREATE     set notok="1" 
-;UNIX_CREATE   else
-;UNIX_CREATE     
-;UNIX_CREATE   endif 
-;UNIX_CREATE endif 
-;UNIX_CREATE 
-;UNIX_CREATE cat  "compound1.nmredata.sdf"| grep -v  UNIX_CREATE> "CSH_NAME_CSH/compound1.nmredata.sdf"
-;UNIX_CREATE if (! $?notok) then
-;UNIX_CREATE echo "Zipping folder CSH_NAME_CSH" 
-;UNIX_CREATE rm "CSH_NAME_CSH.zip" 
-;UNIX_CREATE zip -q -r "CSH_NAME_CSH.zip" "CSH_NAME_CSH" -x "*.DS_Store" -x ".*" -x "_*"
-;UNIX_CREATE else
-;UNIX_CREATE 
-;UNIX_CREATE echo 'rm  "CSH_NAME_CSH.zip" '
-;UNIX_CREATE echo 'zip -q -r "CSH_NAME_CSH.zip" "CSH_NAME_CSH" -x "*.DS_Store" -x ".*" -x "_*"'
-;UNIX_CREATE endif
 2/H1\
 5/H1\
 7/H1\
