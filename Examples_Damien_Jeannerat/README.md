@@ -1,3 +1,11 @@
+# Warning
+
+<span style="color:red">
+** Beware!! **
+  
+** The data in this repository are not really following the NMReDATA format! ** Or are only used to illustrate some specific aspects of the format </span>
+
+
 Updated May 11th 2019 by Damien Jeannerat
 J coupling in menthol example (in the May folder) were corrected (Manually- could not verify values and consistency yet...)
 
