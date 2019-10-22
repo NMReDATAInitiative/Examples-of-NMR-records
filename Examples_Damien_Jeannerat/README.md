@@ -1,9 +1,11 @@
 # Warning
 
+**Beware...**
 <span style="color:red">
-** Beware!! **
-  
-** The data in this repository are not really following the NMReDATA format! ** Or are only used to illustrate some specific aspects of the format </span>
+**The data in this repository are not following the NMReDATA format.**
+</span>
+
+Or are only used to illustrate some specific aspects of the format 
 
 
 Updated May 11th 2019 by Damien Jeannerat
