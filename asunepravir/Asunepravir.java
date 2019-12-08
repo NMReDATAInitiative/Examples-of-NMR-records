@@ -1,4 +1,4 @@
-package de.unikoeln.chemie.nmr.ui.gui;
+package de.unikoeln.chemie.nmr.ui.cl;
 
 import org.jcamp.spectrum.NMRSpectrum;
 import org.jcamp.spectrum.assignments.AtomReference;
