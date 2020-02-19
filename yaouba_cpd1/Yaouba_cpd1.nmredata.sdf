@@ -264,7 +264,7 @@ zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6
 28.2576, L=25, I=600.5808, E=27.5100;errcs=-0.008760 ppm (This is how far this peak is from the assigned resonance)\
 56.5805, L=26, I=450.0718, E=19.6599;errcs=-0.005174 ppm (This is how far this peak is from the assigned resonance)\
 
->  <NMREDATA_2D_13C_unidentified_heteronuclear_2d_spectrum_1H>
+>  <NMREDATA_2D_13C_unidentifiedheteronuclear2dspectrum_1H>
 Larmor=800.0697605\
 CorrType=HSQC-EDITED\
 Pulseprogram=hsqcedetgpsisp2.4 ;optional in V1\
