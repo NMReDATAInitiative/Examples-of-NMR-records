@@ -267,7 +267,7 @@ H16/H20\
 H17/H20\
 H19/H20\
 
->  <NMREDATA_2D_13C_unidentified_heteronuclear_2d_spectrum_1H>
+>  <NMREDATA_2D_13C_unidentifiedheteronuclear2dspectrum_1H>
 Larmor=799.8737605\
 CorrType=HSQC-EDITED\
 Pulseprogram=hsqcedetgpsisp2.4 ;optional in V1\
