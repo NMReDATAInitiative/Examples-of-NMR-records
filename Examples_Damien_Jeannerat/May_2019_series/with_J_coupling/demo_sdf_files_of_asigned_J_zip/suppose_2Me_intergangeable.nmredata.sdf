@@ -58,7 +58,7 @@ M  END
 1.1\
 
 >  <NMREDATA_LEVEL>
-0\
+1\
 
 >  <NMREDATA_ID>
 Record=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6oDHila?dl=0\
@@ -134,7 +134,7 @@ Spectrum_Location=file:AN-menthol/10/pdata/1/\
 0.9720, S=ddd, N=1, L=H5ax, J=10.90(H4),12.00(H6),12.10(H5eq), E=75.3575;manual fix Note: J should be listed with deceasing values\
 0.9493, S=d, L=Me11, N=1, J=7.05(H9);manual fix Note: J should be listed with deceasing values\
 0.9331, S=d, L=Me7 ,N=1, J=6.58(H6);manual fix Note: J should be listed with deceasing values\
-0.8630, S=ddd, N=1, L=1Hax, J=12.80(H1eq),12.00(H2ax),3.30(H2eq), E=33.0961;manual fix Note: J should be listed with deceasing values\
+0.8630, S=ddd, N=1, L=H1ax, J=12.80(H1eq),12.00(H2ax),3.30(H2eq), E=33.0961;manual fix Note: J should be listed with deceasing values\
 0.8311, S=d, L=Me10, E=161.0030, J=7.90(H9);manual fix Note: J should be listed with deceasing values\
 
 $$$$

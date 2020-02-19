@@ -143,6 +143,7 @@ DMSO\
 0\
 
 >  <NMREDATA_ASSIGNMENT>
+16, 128.8, 16\
 H1, 4.2824, H1\
 H5, 8.5507, H5\
 H6a, 3.8432, H6\
@@ -195,8 +196,8 @@ H63, 4.8401, H63\
 H64, 4.7842, H64\
 
 >  <NMREDATA_J>
-H5, H6'', 5.1\
-H6', H6'', 17.1\
+H5, H6b, 5.1\
+H6a, H6b, 17.1\
 H10, H11, 9.2\
 H11, H16, 7.0\
 H12, H14, 9.5\
@@ -204,17 +205,17 @@ H12, H14, 9.5\
 H18, H63, 9.2\
 H26, H43, 7.2\
 H28, H30, 6.4\
-H28, H56'', 6.0\
-H28, H56', 8.2\
-H32, H33'', 6.2\
-H32, H33', 5.4\
-H33', H33'', 17.1\
+H28, H56b, 6.0\
+H28, H56a, 8.2\
+H32, H33b, 6.2\
+H32, H33a, 5.4\
+H33a, H33b, 17.1\
 H37, H38, 9.2\
 H39, H40, 8.6\
 H39, H46, 8.8\
-H53', H53'', 2.3\
-H56', H56'', 15.9\
-H61', H61'', 2.2\
+H53a, H53b, 2.3\
+H56a, H56b, 15.9\
+H61a, H61b, 2.2\
 
 >  <NMREDATA_1D_1H>
 Larmor=899.894274266081\
@@ -233,10 +234,10 @@ zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6
 ;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/Peptide_HAN_006/HAN006/9/fid in C:/Users/Lianne/Documents/NMReDATA/Peptide_HAN_006/"
 ;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of HAN006"
 ;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     echo "cp  "\""HAN006/9"\" \""UNIX_WO_PATH/CSH_NAME_CSH/HAN006"\"
+;UNIX_CREATE     echo "cp  "/""HAN006/9"/" /""UNIX_WO_PATH/CSH_NAME_CSH/HAN006"/"
 ;UNIX_CREATE     set notok="1" 
 ;UNIX_CREATE   else
-;UNIX_CREATE     echo "cp  "\""HAN006/9"\" \""UNIX_WO_PATH/CSH_NAME_CSH/HAN006"\"
+;UNIX_CREATE     echo "cp  "/""HAN006/9"/" /""UNIX_WO_PATH/CSH_NAME_CSH/HAN006"/"
 ;UNIX_CREATE   endif 
 ;UNIX_CREATE endif 
 ;UNIX_CREATE 
@@ -308,10 +309,10 @@ zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6
 ;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/Peptide_HAN_006/HAN006/10/ser in C:/Users/Lianne/Documents/NMReDATA/Peptide_HAN_006/"
 ;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of HAN006"
 ;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     echo "cp  "\""HAN006/10"\" \""UNIX_WO_PATH/CSH_NAME_CSH/HAN006"\"
+;UNIX_CREATE     echo "cp  "/""HAN006/10"/" /""UNIX_WO_PATH/CSH_NAME_CSH/HAN006"/"
 ;UNIX_CREATE     set notok="1" 
 ;UNIX_CREATE   else
-;UNIX_CREATE     echo "cp  "\""HAN006/10"\" \""UNIX_WO_PATH/CSH_NAME_CSH/HAN006"\"
+;UNIX_CREATE     echo "cp  "/""HAN006/10"/" /""UNIX_WO_PATH/CSH_NAME_CSH/HAN006"/"
 ;UNIX_CREATE   endif 
 ;UNIX_CREATE endif 
 ;UNIX_CREATE 
@@ -491,10 +492,10 @@ zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6
 ;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/Peptide_HAN_006/HAN006/2/ser in C:/Users/Lianne/Documents/NMReDATA/Peptide_HAN_006/"
 ;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of HAN006"
 ;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     echo "cp  "\""HAN006/2"\" \""UNIX_WO_PATH/CSH_NAME_CSH/HAN006"\"
+;UNIX_CREATE     echo "cp  "/""HAN006/2"/" /""UNIX_WO_PATH/CSH_NAME_CSH/HAN006"/"
 ;UNIX_CREATE     set notok="1" 
 ;UNIX_CREATE   else
-;UNIX_CREATE     echo "cp  "\""HAN006/2"\" \""UNIX_WO_PATH/CSH_NAME_CSH/HAN006"\"
+;UNIX_CREATE     echo "cp  "/""HAN006/2"/" /""UNIX_WO_PATH/CSH_NAME_CSH/HAN006"/"
 ;UNIX_CREATE   endif 
 ;UNIX_CREATE endif 
 ;UNIX_CREATE 
@@ -504,7 +505,7 @@ zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6
 ;UNIX_CREATE rm "CSH_NAME_CSH.zip" 
 ;UNIX_CREATE zip -q -r "CSH_NAME_CSH.zip" "CSH_NAME_CSH" -x "*.DS_Store" -x ".*" -x "_*"
 ;UNIX_CREATE else
-;UNIX_CREATE echo "cd "\""UNIX_WO_PATH"\"
+;UNIX_CREATE echo "cd "/""UNIX_WO_PATH"/"
 ;UNIX_CREATE echo 'rm  "CSH_NAME_CSH.zip" '
 ;UNIX_CREATE echo 'zip -q -r "CSH_NAME_CSH.zip" "CSH_NAME_CSH" -x "*.DS_Store" -x ".*" -x "_*"'
 ;UNIX_CREATE endif

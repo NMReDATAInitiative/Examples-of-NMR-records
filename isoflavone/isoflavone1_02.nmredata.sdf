@@ -135,10 +135,10 @@ zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6
 ;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/Natprod_Millettia/TSE_28F/11/fid in C:/Users/Lianne/Documents/NMReDATA/Natprod_Millettia/"
 ;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of TSE_28F"
 ;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     echo "cp  "\""TSE_28F/11"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE     echo "cp  "/""TSE_28F/11"/" /""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"/"
 ;UNIX_CREATE     set notok="1" 
 ;UNIX_CREATE   else
-;UNIX_CREATE     echo "cp  "\""TSE_28F/11"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE     echo "cp  "/""TSE_28F/11"/" /""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"/"
 ;UNIX_CREATE   endif 
 ;UNIX_CREATE endif 
 ;UNIX_CREATE 
@@ -171,10 +171,10 @@ zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6
 ;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/Natprod_Millettia/TSE_28F/12/fid in C:/Users/Lianne/Documents/NMReDATA/Natprod_Millettia/"
 ;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of TSE_28F"
 ;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     echo "cp  "\""TSE_28F/12"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE     echo "cp  "/""TSE_28F/12"/" /""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"/"
 ;UNIX_CREATE     set notok="1" 
 ;UNIX_CREATE   else
-;UNIX_CREATE     echo "cp  "\""TSE_28F/12"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE     echo "cp  "/""TSE_28F/12"/" /""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"/"
 ;UNIX_CREATE   endif 
 ;UNIX_CREATE endif 
 ;UNIX_CREATE 
@@ -220,10 +220,10 @@ zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6
 ;UNIX_CREATE     echo "Could not find the file :C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/TSE_28F/13/ser in C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/"
 ;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of TSE_28F"
 ;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     echo "cp  "\""TSE_28F/13"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE     echo "cp  "/""TSE_28F/13"/" /""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"/"
 ;UNIX_CREATE     set notok="1" 
 ;UNIX_CREATE   else
-;UNIX_CREATE     echo "cp  "\""TSE_28F/13"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE     echo "cp  "/""TSE_28F/13"/" /""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"/"
 ;UNIX_CREATE   endif 
 ;UNIX_CREATE endif 
 ;UNIX_CREATE 
@@ -247,10 +247,10 @@ zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6
 ;UNIX_CREATE     echo "Could not find the file :C:/Users/Lianne/Documents/NMReDATA/Natprod_Millettia/TSE_28F/14/ser in C:/Users/Lianne/Documents/NMReDATA/Natprod_Millettia/"
 ;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of TSE_28F"
 ;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     echo "cp  "\""TSE_28F/14"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE     echo "cp  "/""TSE_28F/14"/" /""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"/"
 ;UNIX_CREATE     set notok="1" 
 ;UNIX_CREATE   else
-;UNIX_CREATE     echo "cp  "\""TSE_28F/14"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE     echo "cp  "/""TSE_28F/14"/" /""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"/"
 ;UNIX_CREATE   endif 
 ;UNIX_CREATE endif 
 ;UNIX_CREATE 
@@ -284,10 +284,10 @@ zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6
 ;UNIX_CREATE     echo "Could not find the file :C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/TSE_28F/16/ser in C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/"
 ;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of TSE_28F"
 ;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     echo "cp  "\""TSE_28F/16"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE     echo "cp  "/""TSE_28F/16"/" /""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"/"
 ;UNIX_CREATE     set notok="1" 
 ;UNIX_CREATE   else
-;UNIX_CREATE     echo "cp  "\""TSE_28F/16"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE     echo "cp  "/""TSE_28F/16"/" /""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"/"
 ;UNIX_CREATE   endif 
 ;UNIX_CREATE endif 
 ;UNIX_CREATE 
@@ -321,10 +321,10 @@ zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6
 ;UNIX_CREATE     echo "Could not find the file :C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/TSE_28F/17/ser in C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/"
 ;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of TSE_28F"
 ;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     echo "cp  "\""TSE_28F/17"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE     echo "cp  "/""TSE_28F/17"/" /""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"/"
 ;UNIX_CREATE     set notok="1" 
 ;UNIX_CREATE   else
-;UNIX_CREATE     echo "cp  "\""TSE_28F/17"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE     echo "cp  "/""TSE_28F/17"/" /""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"/"
 ;UNIX_CREATE   endif 
 ;UNIX_CREATE endif 
 ;UNIX_CREATE 
@@ -380,10 +380,10 @@ zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6
 ;UNIX_CREATE     echo "Could not find the file :C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/TSE_28F/15/ser in C:/Users/Tsegaye/Desktop/Tsegaye new/2DNMR/"
 ;UNIX_CREATE     echo "Please open a shell and use cd to go into the folder of TSE_28F"
 ;UNIX_CREATE     echo "type the following command lines:"
-;UNIX_CREATE     echo "cp  "\""TSE_28F/15"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE     echo "cp  "/""TSE_28F/15"/" /""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"/"
 ;UNIX_CREATE     set notok="1" 
 ;UNIX_CREATE   else
-;UNIX_CREATE     echo "cp  "\""TSE_28F/15"\" \""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"\"
+;UNIX_CREATE     echo "cp  "/""TSE_28F/15"/" /""UNIX_WO_PATH/CSH_NAME_CSH/TSE_28F"/"
 ;UNIX_CREATE   endif 
 ;UNIX_CREATE endif 
 ;UNIX_CREATE 
@@ -393,7 +393,7 @@ zip_file_Location=https://www.dropbox.com/sh/ma8v25g15wylfj4/AAA4xWi5w9yQv5RBLr6
 ;UNIX_CREATE rm "CSH_NAME_CSH.zip" 
 ;UNIX_CREATE zip -q -r "CSH_NAME_CSH.zip" "CSH_NAME_CSH" -x "*.DS_Store" -x ".*" -x "_*"
 ;UNIX_CREATE else
-;UNIX_CREATE echo "cd "\""UNIX_WO_PATH"\"
+;UNIX_CREATE echo "cd "/""UNIX_WO_PATH"/"
 ;UNIX_CREATE echo 'rm  "CSH_NAME_CSH.zip" '
 ;UNIX_CREATE echo 'zip -q -r "CSH_NAME_CSH.zip" "CSH_NAME_CSH" -x "*.DS_Store" -x ".*" -x "_*"'
 ;UNIX_CREATE endif
