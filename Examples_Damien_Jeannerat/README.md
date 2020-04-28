@@ -5,8 +5,9 @@
 **The data in this repository are not following the NMReDATA format.**
 </span>
 
-Or are only used to illustrate some specific aspects of the format 
+Or are only used to illustrate some specific aspects of the format.
 
+They were produced using the Mnova script located here: https://github.com/NMReDATAInitiative/Mnova_export_script
 
 Updated May 11th 2019 by Damien Jeannerat
 J coupling in menthol example (in the May folder) were corrected (Manually- could not verify values and consistency yet...)
