@@ -1,0 +1,1 @@
+Reference: "Halogen bonding: a powerful tool for modulation of peptide conformation" Danelius, E.; Andersson, H.; Jarvoll, P.; Lood, K.; Gräfenstein, J.; Erdelyi, M. Biochemistry 2017, 56, 3265-3272.
