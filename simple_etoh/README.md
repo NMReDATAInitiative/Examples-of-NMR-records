@@ -1,0 +1,1 @@
+This .sdf files contains NMReDATA based on DFT (for structure) and GIAO (for chemical shifts and couplings). They represent a simple example of the various options for NMReDATA.
